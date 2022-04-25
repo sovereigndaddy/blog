@@ -6,14 +6,9 @@ categories: jekyll update
 ---
 ### About me
 
+Software developer.
 
-Dorky/Bad ass dad to some great kids.
-
-Extremely curious individual, always question the narrative. 
-
-Fullstack software engineer. 
-
-Freedom and privacy advocate.
+Freedom and privacy enthusiast.
 
 Pro-individualist, anti-collectivist.
 
@@ -24,4 +19,3 @@ Pro-individualist, anti-collectivist.
 
 <br>
 #### If you somehow find my blog and are interested in this content, then STAY TUNED!
-
