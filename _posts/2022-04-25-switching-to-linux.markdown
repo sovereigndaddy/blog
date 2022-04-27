@@ -4,47 +4,62 @@ title:  "Switching to Linux"
 date:   2022-04-25 08:30:00 -0500
 categories: jekyll update
 ---
-### Why is Windows bad for Privacy?
+## Why is Windows bad for Privacy?
 
 Windows Operating Systems are by design bad for privacy, being guilty of using Windows for years, I've
 seen the invasion of privacy that it can pose. Nothing surprising I guess, just read through their
 [privacy statement](https://privacy.microsoft.com/en-us/privacystatement).
 I'll take them at their word and assume they're doing the maximum amount of monitoring, collecting, and harvesting
-of our personal data within the limits of the current laws. Enough said, let's check out our new OS..
+of our personal data within the limits of the current laws.
 
-### Why Linux?
+Enough said, let's check out our new OS..
 
-| Topic          |  Linux | Windows |
-|----------------|--------|---------|
-| Reliability    | [x] | [] |
-| Customization  | [x] | [] |
-| Variety        | [x] | [] |
-| Cost           | [x] | [] |
-| Support        | [x] | [] |
-| Privacy        | [x] | [] |
-| Open Source    | [x] | [] |
+## Why Linux?
+
+##### Cost
+This one is obvious, if you use Windows OS then you have to buy for the privilege to use it. I guess you could go sniffing around the black market for a free version ha but do so at your own risk.
+
+Linux is FREE for the people.
+
+##### Security
+Windows is a blackbox. You have to put your trust and faith in Microsoft that their group of developers will be able to find near all of the security issues before releasing the OS to the public.
+
+Linux is far superior in regards to security, it has a massive community of developers that are constantly reviewing the source code due to it being completely open-source. The developers can see every single line of code, greatly increasing the chances of finding and fixing a security issue before it becomes a [zero day](https://en.wikipedia.org/wiki/Zero-day_(computing)) attack.
+
+
+##### Privacy
+Once again, take Microsoft at their word and just look at their [Windows data collection summary](https://privacy.microsoft.com/en-us/data-collection-windows). Remember, this is just what they're willing to admit to, but big tech, including Microsoft, cannot be trusted; we're being watched.
+
+Take Linux at their word and check out there [privacy](https://linuxmint.com/privacy.php) page. If you read through this page, you'll understand that they value privacy and security first and foremost, and knowing this, well... it just makes me feel all warm and cozy inside.
+
+![Warm and Cozy](https://media.giphy.com/media/YnNKrPub6aYbc8u53S/giphy.gif)
 
 <br/>
-### My Adventure
+## My Adventure
 
-#### Goal
-My goal was to STOP using the Windows OS. To accomplish this, I'm going to take my old gaming computer, currently running Windows 7 Professional, and install Linux OS on it. I'm going to wipe the 2nd drive in the system, since I'm planning on using that one solely for the Linux OS. This will be a [multi-boot](https://en.wikipedia.org/wiki/Multi-booting) setup, simply meaning, I'll have both Windows and Link available to boot now.
+##### Goal
+My goal was to STOP using the Windows OS. To accomplish this, I'm going to take my old gaming computer, currently running Windows 7 Professional, and install Linux OS on it. I built this computer back in 2012 so the hardware WAS considered good but it's day has since past and I'm now just trying to squeeze as much energy and time as I can out of this old thang.
+
+I have two Western Digital [HDD](https://en.wikipedia.org/wiki/Hard_disk_drive)'s currently installed in my computer, so I'm going to re-purpose the 2nd HDD to now be the main hard drive for my Linux OS. This setup will be considered a [multi-boot](https://en.wikipedia.org/wiki/Multi-booting) setup, simply meaning, I'll have both Windows and Linux available to boot.
 
 #### Scenario & Setup
 ##### Old Gaming Computer Specs
 
-|:--------------------|:----------------------------------------------|
+|:--------------------|----------------------------------------------:|
 | Operating System    | Windows 7 Professional                        |
 | Processor           | Intel© Core™ i7-2600K CPU @ 3.40GHz × 4       |
-| Memory              | [x] |
-| Hard Drive 1        | [x] |
-| Hard Drive 2        | [x] |
+| Memory (RAM)        | 8.00 GB                                       |
 | Graphics Card       | NVIDIA Corporation GF116 [GeForce GTX 550 Ti] |
+| Hard Drive 1        | WD Caviar Black WD1002FAEX 1TB 7200 RPM       |
+| Hard Drive 2        | WD VelociRaptor WD3000HLFS 300GB 10000 RPM    |
 
 <br/>
 
 #### Step 1: Backup Hard Drive
-I'm currently using a [Start9](https://start9.com) Embassy private server, setup with an external hard drive, and using the [File Browser](https://filebrowser.org/) software to store all of my files, so I did a quick scan of my files and then backed up what I cared about; most were trash though.
+I'm currently using a [Start9](https://start9.com) Embassy private server, setup with an external hard drive, and using the [File Browser](https://filebrowser.org/) software to store all of my files. I did a quick scan of my existing hard drive, that I'm planning on reformatting and using for the Linux install, and then backed up what I cared about; most were trash though.
+
+#### Step 2: Wipe Hard Drive
+Now that I confidently have everything backed up, I'm going to wipe the hard drive. Wiping is different than deleting, when you wipe a hard, you erase EVERYTHING that is currently stored on it, whereas deleting can just mark file/s for deletion at a later point. To perform the wipe, I'm going to use [Input Software Name](https://www.google.com/).
 
 #### Step 2: Choosing Linux Distro
 Luckily, I was exposed to Linux during a work project, that was long ago but I recall setting up many virtual machines, using [Oracle VirtualBox](https://www.virtualbox.org/), and these VM's used an Ubuntu image. Ubuntu was nice to use when I got the chance, but would I call it my favorite? No, but I understood the benefits of it in general.
