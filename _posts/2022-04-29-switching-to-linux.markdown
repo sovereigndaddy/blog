@@ -1,7 +1,8 @@
 ---
 layout: post
+background: "/img/Linux.jpg"
 title:  "Switching to Linux"
-date:   2022-04-25 08:30:00 -0500
+date:   2022-04-29 08:30:00 -0500
 categories: jekyll update
 ---
 Windows Operating Systems are by design bad for privacy, being guilty of using Windows for years, I've
@@ -14,7 +15,6 @@ Enough said, let's check out our new OS..
 
 <br/>
 ## Why Linux?
-
 ##### Cost
 This one is obvious, if you use Windows OS then you have to buy for the privilege to use it. I guess you could go sniffing around the black market for a free version ha but do so at your own risk.
 
@@ -43,13 +43,13 @@ I have two Western Digital [HDD](https://en.wikipedia.org/wiki/Hard_disk_drive)'
 
 ##### Computer Specs
 
-|:--------------------|----------------------------------------------:|
-| Operating System    | Windows 7 Professional                        |
-| Processor           | Intel© Core™ i7-2600K CPU @ 3.40GHz × 4       |
-| Memory (RAM)        | 8.00 GB                                       |
-| Graphics Card       | NVIDIA Corporation GF116 [GeForce GTX 550 Ti] |
-| Hard Drive 1        | WD Caviar Black WD1002FAEX 1TB 7200 RPM       |
-| Hard Drive 2        | WD VelociRaptor WD3000HLFS 300GB 10000 RPM    |
+|:--------------------------|----------------------------------------------:|
+| **Operating System:**    | Windows 7 Professional                        |
+| **Processor:**           | Intel© Core™ i7-2600K CPU @ 3.40GHz × 4       |
+| **Memory (RAM):**        | 8.00 GB                                       |
+| **Graphics Card:**       | NVIDIA Corporation GF116 [GeForce GTX 550 Ti] |
+| **Hard Drive 1:**        | WD Caviar Black WD1002FAEX 1TB 7200 RPM       |
+| **Hard Drive 2:**        | WD VelociRaptor WD3000HLFS 300GB 10000 RPM    |
 
 <br/>
 ##### Step 1: Backup Hard Drive
@@ -100,12 +100,15 @@ Next, I needed to create the bootable USB drive, which all of the steps for this
 I next restarted my computer with the USB drive installed and entered bios. I can never remember which one it is ha so I was pressing F2, F10, and F12 simultaneously. Turns out it was DEL lol...
 ![Confused-Keyboard](https://media.giphy.com/media/52HjuHsfVO69q/giphy-downsized-large.gif)
 
-Now in the bios, I clicked the "Boot Options" button, and then selected the USB flash drive.
+Now in the bios, I clicked the "Boot Menu(F8)" button, and then selected the USB flash drive to start the boot.
 
-Once Linux Mint was booted up, I clicked on the CD icon to Install Lint Mint.
+![Install Linux](/img/asus-uefi-bios-utility-ez-mode.jpg)
+
+Once Linux Mint was booted up from the USB drive, I clicked on the disc icon to start the Lint Mint installation.
+
 ![Install Linux](/img/InstallLinuxMintIcon.jpg)
 
-There's also amazing documentation for this step [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html).
+There's also amazing installation documentation for this step [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html).
 
 After successfully completing the installation setup and configuration, Linux Mint is installed!
 ![Linux Mint](/img/linuxmintdesktop.jpg)
