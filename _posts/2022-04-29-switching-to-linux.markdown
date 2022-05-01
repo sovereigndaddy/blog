@@ -24,7 +24,7 @@ Linux is far superior in regards to security, it has a massive community of deve
 ### Privacy
 Once again, take Microsoft at their word and just look at their [Windows data collection summary](https://privacy.microsoft.com/en-us/data-collection-windows). Remember, this is just what they're willing to admit to, but big tech, including Microsoft, cannot be trusted; we're being watched.
 
-Take Linux at their word and check out there [privacy](https://linuxmint.com/privacy.php) page. If you read through this page, you'll understand that they value privacy and security first and foremost, and knowing this, well... it just makes me feel all warm and cozy inside.
+Take Linux at their word and check out their [privacy](https://linuxmint.com/privacy.php) page. If you read through this page, you'll understand that they value privacy and security first and foremost, and knowing this, well... it just makes me feel all warm and cozy inside.
 
 ![Warm and Cozy](https://media.giphy.com/media/YnNKrPub6aYbc8u53S/giphy.gif)
 
@@ -132,6 +132,10 @@ After successfully completing the installation setup and configuration, Linux Mi
 And just like that, the deed was done. Time to mark one more task off of my privacy 4 life list.
 
 ![Party](https://media.giphy.com/media/S4AnOkBwfcb4GyDzK7/giphy.gif)
+
+<br/>
+When booting I'll now have the option to boot either Windows or Linux Mint.
+![Multi Boot Select](/img/MultiBootSelect.jpg)
 
 <br/>
 <br/>
