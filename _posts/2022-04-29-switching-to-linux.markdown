@@ -5,20 +5,20 @@ title:  "Switching to Linux"
 date:   2022-04-29 08:30:00 -0500
 categories: jekyll update
 ---
-Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are doing with our data, I'm switching all of my machines from Windows to Linux. This blog will document the steps I went through when converting one of my machines. Now to the story...
+Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are doing with our data, I'm switching all of my machines from Windows to Linux. This blog will document the adventure I went through when converting one of my machines....
 
 <br/>
 ## Why Linux?
-### Cost
-This one is obvious, if you use Windows OS then you have to buy for the privilege to use it. I guess you could go sniffing around the black market for a free version ha but do so at your own risk.
-
-Linux is FREE for the people. If you have time, it's worth reading through the history of Linux and why it's free. Here's one [article](https://www.informit.com/articles/article.aspx?p=2118681&seqNum=2) on the topic.
-
-<br/>
 ### Security
 Windows is a blackbox. You have to put your trust and faith in Microsoft that their group of developers will be able to find near all of the security issues before releasing the OS to the public.
 
 Linux is far superior in regards to security, it has a massive community of developers that are constantly reviewing the source code due to it being completely open-source. The developers can see every single line of code, greatly increasing the chances of finding and fixing a security issue before it becomes a [zero day](https://en.wikipedia.org/wiki/Zero-day_(computing)) attack.
+
+<br/>
+### Cost
+This one is obvious, if you use Windows OS then you have to buy for the privilege to use it. I guess you could go sniffing around the black market for a free version ha but do so at your own risk.
+
+Linux is FREE for the people. If you have time, it's worth reading through the history of Linux and why it's free. Here's one [article](https://www.informit.com/articles/article.aspx?p=2118681&seqNum=2) on the topic.
 
 <br/>
 ### Privacy
