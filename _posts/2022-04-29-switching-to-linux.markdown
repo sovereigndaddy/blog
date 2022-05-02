@@ -1,6 +1,6 @@
 ---
 layout: post
-background: "/img/Linux.jpg"
+icon: "/img/Linux.jpg"
 title:  "Switching to Linux"
 date:   2022-04-29 08:30:00 -0500
 categories: jekyll update
@@ -134,7 +134,7 @@ And just like that, the deed was done. Time to mark one more task off of my priv
 ![Party](https://media.giphy.com/media/S4AnOkBwfcb4GyDzK7/giphy.gif)
 
 <br/>
-When booting I'll now have the option to boot either Windows or Linux Mint.
+When booting my computer, I'll now have the option to boot either Windows or Linux Mint.
 ![Multi Boot Select](/img/MultiBootSelect.jpg)
 
 <br/>
