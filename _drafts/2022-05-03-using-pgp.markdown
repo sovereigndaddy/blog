@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Using PGP"
+date:   2022-05-03 20:35:00 -0500
+categories: jekyll update
+---
+## Pretty Good Privacy
+PGP stands for **P**retty **G**ood **P**rivacy. In short, it's an encryption system that utilizes public key cryptography to authenticate and encrypt data.
+
+When using PGP, you will have 2 keys, 1 public key and 1 private key...
+
+### Public Key
+Your public key should be broadcast to the world. Put it on your blog, your social media accounts, etc.
+
+This is my PGP public key
+![Look Here](https://media.giphy.com/media/35tNq7lBmyOagYRnQU/giphy.gif)
+<pre>
+  <code class="ruby">
+xjMEYgkPCxYJKwYBBAHaRw8BAQdAdtQNK43B8P2iMY2o3sa4OK14SLvvLxuY
+V/IiJ0i0eBbNPXBldGVyc29uLmplc3NlQHByb3Rvbm1haWwuY29tIDxwZXRl
+cnNvbi5qZXNzZUBwcm90b25tYWlsLmNvbT7CjwQQFgoAIAUCYgkPCwYLCQcI
+AwIEFQgKAgQWAgEAAhkBAhsDAh4BACEJECOVZLdgo4tHFiEE3WA8Wfu57nxi
+QqQPI5Vkt2Cji0fGawEAhMaKEpSncVCXgzfoIgr73yVYKa23HO3anNvyvmob
+mVgA+wauvg7KUmm+vOf4BwI/22mP3CUhQsliW9BO9h0FdSUFzjgEYgkPCxIK
+KwYBBAGXVQEFAQEHQFOpUPxfywNHNzzcH9gJS1UmIXygJxsK9C1g1ebcpysI
+AwEIB8J4BBgWCAAJBQJiCQ8LAhsMACEJECOVZLdgo4tHFiEE3WA8Wfu57nxi
+QqQPI5Vkt2Cji0cjRgEA2XrkLQqOBxcn/Gk4ps2OaNburJJSy5Peg4kzoNuv
+nTgBANdpRm5TUUmqGBn8ihfsh05KWPoA1FNOjM0djnZ3gD0G
+=2o2a
+  </code>
+</pre>
+
+### Private Key
+
+Your private key must be kept a secret, as this is the key that gives you the ability to decrypt messages and data and provide your signature to authenticate yourself.
+
+If your private key, gets leaked or hacked, then in theory, whoever has your private key will have the ability to decrypt messages and data sent with your publi key.
+
+
+When I send you data for example, I would encrypt the data with your public key so when you receive it you will be able to decrypt the data using your private key.
+
+## Why Use It?
+
+## How to Set it Up?

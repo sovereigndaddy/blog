@@ -18,7 +18,7 @@ Linux is far superior in regards to security, it has a massive community of deve
 ### Cost
 This one is obvious, if you use Windows OS then you have to buy for the privilege to use it. I guess you could go sniffing around the black market for a free version ha but do so at your own risk.
 
-Linux is FREE for the people. If you have time, it's worth reading through the history of Linux and why it's free. Here's one [article](https://www.informit.com/articles/article.aspx?p=2118681&seqNum=2) on the topic.
+Linux is free for the people, free speech for the people. If you have time, it's worth reading through the history of Linux and why it's free. Here's one [article](https://www.informit.com/articles/article.aspx?p=2118681&seqNum=2) on the topic.
 
 <br/>
 ### Privacy
