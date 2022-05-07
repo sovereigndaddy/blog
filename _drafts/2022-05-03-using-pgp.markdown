@@ -123,11 +123,12 @@ Run the command below to launch GPA
 
 When GPA is first opened, it's going to ask us if we want to generate a private key. Since this is my first time using it, I'm going to click on "Generate key now".
 
+<br/>
 ![Generate Private Key](/img/PGP/generateprivatekey.jpg)
 
 <br/>
-
-Enter in the details asked throughout the process.
+<br/>
+Enter in your details.
 
 ![Enter Full Name](/img/PGP/enterfullname.jpg)
 
@@ -145,6 +146,78 @@ Finally, enter your passphrase for your private key and confirm it.
 ![Private Key Passphrase](/img/PGP/enterpassphraseprivatekey.jpg)
 
 <br/>
+<br/>
 Now in the key manager area of GPA, you should see the private key entry that we just created.
 
 ![Key Manager Key](/img/PGP/keymanagerkey.jpg)
+
+<br/>
+# Export keys
+
+**Public Key**
+In order to paste your public key anywhere and everywhere, you have to have a copy of it first.
+
+Click on the export button, as shown below, to export a copy of your public key.
+
+![Export Public Key](/img/PGP/exportpublickey.png)
+
+<br/>
+
+Select the destination path to save your public key.
+![ave Pub Key](/img/PGP/savepubkey.jpg)
+
+<br/>
+<br/>
+Now that it's exported, open up the pub.txt file and check it out! Sweet bro!
+
+ ```text
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+ mQENBGJ1cdkBCACz/YVLtpdtQ0wZbLeXgdu3RIs/7Nl0C3oQO+xgx/yAD+z/9EjJ
+ 1J80zosqkFjvYLK8Z11oSIQpfrpW48QbSzSOL4Xzh6L5TdJeW6vYFzI1sBjrcj5P
+ qL81o07IG/HQN82YFUD8gHYSJUaBLCF2VDGMszEUsemSexlJpVlFAgoC1+TI4ymO
+ GdRTUlAcqCxhVQ4jHGrSN3o5/Jg/2jwgFwxT32lvZ39bHVjoQfeLeF9Sg6aZWMqi
+ 1jiBfYaDAB3sT5ZPsBmfttppaTM+10udzeF8kYpT4StglLtWvpzSvtR2qoV/wnuO
+ joZOQvDU23e7QA49x5RAqaEyATIKmt/QWNC/ABEBAAG0J3VucnVsYWJsZSBibG9n
+ IDxjb250YWN0QHVucnVsYWJsZS5ibG9nPokBTgQTAQoAOBYhBECRfdS9W8z5Qshc
+ ETbkyQVE0DCtBQJidXHZAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEDbk
+ yQVE0DCtNlIH/0kIedJbD7AP0iCH4J+IP+5mtkzIX9lOlirRz7tqmSFfvC9ZVcPf
+ ZLi647VY+/5spXYkk+0pj4IXfgliYGlJBeRSzXb1+Z5C+eBol0ykJG3RHf170inp
+ IG42PNmxB7X9ap5Iv+xmdjTtfwNmiqSPQPur6nz81vZMq2+GVImCxWVYtScOw8Iw
+ K1PfKaXyecXRFhVsQNgWf3LH4Rmg7YfIFnJHT63+r97hGHCzk/tjV3l0TP4keomQ
+ 6nfeEp51yYQAbwTkD1zss8bGYqLVO+nbvPWEtYnoL2cgmmm8d7b+L5vYOPKf3QS8
+ NQ0es5GMZl3l3MAwYmVUNu4S+Vo10tXoUsW5AQ0EYnVx2QEIAP1Z3jdsqmbZ8mHN
+ ALIP9w9+pHarBpHf+M2TdkpYdFhOKukFlVSNaEXopgHbFzhHp6lgkorIG0divJVX
+ Eolow7dIGG1HGQuh6R5CH6/rzNWY4LECVa+IPO1Mxvj8KR+7Fw5uesqjFDD8lU9P
+ cNqu18csoR9HqTQtpNNB8U2tgR7o5xRyEZc4zTSfug1G3KVTh7WBvILW+c6Ul1kN
+ +OHCJTgGFwyFLSdM7oLzp/iKmstxjwwmprqTAi8HiMo5h9LpRi857DsZyxrBO/lM
+ VIxUGXnqX10DXXRrWfEY4nDGbBBdqXUo2VIep9Mjz0Yijo30/x/qnypqZm4yWH7C
+ gBhJ+/8AEQEAAYkBNgQYAQoAIBYhBECRfdS9W8z5QshcETbkyQVE0DCtBQJidXHZ
+ AhsMAAoJEDbkyQVE0DCtkFoH/219PEx4JhB9iWmEMz3V53m8cW7bO3uEtWKM3w3u
+ zBCIxhAFKnN/bXCXuQn43oCwmg+IE0fr8wZCjPW1D6f9wM25/yIhJePDqlO9Vr5S
+ mik6nN9DNGAlm+pFvvOK5JwKDASMYPQJ0tiyaCGY2jn132l0X2JUptxim39WwFXs
+ fCdyTRizYRH0hYrwWP15LiKWeOmII/M9nUxOhUk2l/BVTeiyu119EzMY6zE4Ka2d
+ OhaAJyt25OIbdqsJCGiN0hW621QMkHOUuD2dF6v2dTpR6s3hDOFVG+sBgOzvdJ9p
+ yl3Xwel/t6nW2Z/OTXDbIzRnRYNnn9GUhAs2Rn4msC6wfw8=
+ =Zkkm
+ -----END PGP PUBLIC KEY BLOCK-----
+```
+My Public Key
+![Looky Here](https://media.giphy.com/media/QMZpnb79N5BN0wsSM3/giphy.gif)
+
+
+<br/>
+<br/>
+**Private Key**
+
+To export your private key, navigate under the "Keys" nav menu item and then select "Backup..." and then simply select the location where you want to save the private key.
+
+![Export Private Key](/img/PGP/exportprivatekey.jpg)
+
+<br/>
+<br/>
+
+# Using PGP
+
+**Encrypting Data**
+Let's say you want to send your friend a message using PGP, and they've already give you their public key. Simply navigate into the "Keys" nav menu item and then select "Import Keys...".
