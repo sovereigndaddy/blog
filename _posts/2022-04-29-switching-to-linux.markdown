@@ -1,14 +1,16 @@
 ---
-layout: post
+# layout: post
 icon: "/img/Linux.jpg"
 title:  "Switching to Linux"
 date:   2022-04-29 08:30:00 -0500
 categories: jekyll update
 ---
+![Anti Windows](/img/antiwindows.jpg)
+
 Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are doing with our data, I'm switching all of my machines from Windows to Linux. This blog will document the adventure I went through when converting one of my machines....
 
 <br/>
-## Why Linux?
+# Why Linux?
 ### Security
 Windows is a blackbox. You have to put your trust and faith in Microsoft that their group of developers will be able to find near all of the security issues before releasing the OS to the public.
 
@@ -29,7 +31,7 @@ Take Linux at their word and check out their [privacy](https://linuxmint.com/pri
 ![Warm and Cozy](https://media.giphy.com/media/YnNKrPub6aYbc8u53S/giphy.gif)
 
 <br/>
-## My Adventure
+# My Adventure
 
 ### Goal
 My goal was to STOP using the Windows OS. To accomplish this, I'm going to take my old gaming computer, currently running Windows 7 Professional, and install Linux OS on it. I built this computer back in 2012 so the hardware WAS considered good but it's day has since past and I'm now just trying to squeeze as much energy and time as I can out of this old thang.
@@ -107,23 +109,27 @@ Or even more detail instructions are provided [here](https://linuxmint-installat
 <br/>
 ### Step 6: Create Bootable USB Drive
 Next, I needed to create the bootable USB drive, which all of the steps for this are also well documented [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html). I used a SanDisk 128 GB USB drive that I had already purchased a while back, I had no issue with the steps and my Sandisk USB drive was now bootable.
-![Confused-Keyboard](/img/Sandiskusb.jpg)
+
+![SanDisk USB](/img/Sandiskusb.jpg)
 
 <br/>
 ### Step 7: Installation
 I next restarted my computer with the USB drive installed and entered bios. I can never remember which one it is ha so I was pressing F2, F10, and F12 simultaneously. Turns out it was DEL lol...
 ![Confused-Keyboard](https://media.giphy.com/media/52HjuHsfVO69q/giphy-downsized-large.gif)
 
+<br/>
 Now in the bios, I clicked the "Boot Menu(F8)" button, and then selected the USB flash drive to start the boot.
 
 ![Install Linux](/img/asus-uefi-bios-utility-ez-mode.jpg)
 
+<br/>
 Once Linux Mint was booted up from the USB drive, I clicked on the disc icon to start the Lint Mint installation.
 
 ![Install Linux](/img/InstallLinuxMintIcon.jpg)
 
 There's also amazing installation documentation for this step [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html).
 
+<br/>
 After successfully completing the installation setup and configuration, Linux Mint is installed!
 ![Linux Mint](/img/linuxmintdesktop.jpg)
 

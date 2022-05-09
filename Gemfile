@@ -12,14 +12,15 @@ gem "jekyll", "~> 4.2.2"
 # gem "minima", "~> 2.5"
 # gem "jekyll-theme-so-simple"
 # gem "jekyll-theme-clean-blog"
-gem "ockham"
+# gem "ockham"
+gem "jekyll-text-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.13.0"
+  gem "jekyll-feed", "~> 0.15.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
