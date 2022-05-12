@@ -21,7 +21,9 @@ In this post, I'll run through a general overview of PGP as I understand it, wha
 
 <br/>
 # PGP Quick Overview
-Created by cryptographer [Phil Zimmerman](https://en.wikipedia.org/wiki/Phil_Zimmermann) in 1991, PGP stands for **P**retty **G**ood **P**rivacy, it's an encryption system used in data communication that utilizes [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) to sign and encrypt/decrypt data. When using a PGP program you will have 2 keys generated, 1 public key and 1 private key, and you'll use these keys to communicate with any other person in the world that is also utilizing PGP. PGP is known as the closest to military grade encryption that is available for public use; a perfectly private communication system.
+Created by cryptographer [Phil Zimmerman](https://en.wikipedia.org/wiki/Phil_Zimmermann) in 1991, PGP stands for **P**retty **G**ood **P**rivacy, it's an encryption system used in data communication that utilizes [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) to sign and encrypt/decrypt data.
+
+When using a PGP program you will have 2 keys generated, 1 public key and 1 private key, and you'll use these keys to communicate with any other person in the world that is also utilizing PGP. PGP is known as the closest to military grade encryption that is available for public use; a perfectly private communication system.
 
 <br/>
 ### Public Keys
@@ -52,10 +54,10 @@ If your private key, gets leaked or hacked, then in theory, whoever has your pri
 
 ### Install PGP Software
 
-Since I'm using Linux Mint, I'm going to use [GnuPG](https://gnupg.org/), which is a free implementation of the PGP system standard.
+Since my computer is using Linux Mint, I used [GnuPG](https://gnupg.org/), which is a free software implementation of the PGP system standard.
 
 <br/>
-To start things off, run the command below to install [GnuPG](https://gnupg.org/) along with GPA.
+To start things off, I ran the command below to install [GnuPG](https://gnupg.org/) along with GPA.
 
 *Note: GPA stands for GNU Privacy Assistant, it is the graphical user interface for GnuPG.*
 {% highlight javascript %}
@@ -69,7 +71,9 @@ To start things off, run the command below to install [GnuPG](https://gnupg.org/
 <br/>
 ### Generate the Key Pair
 
-After installation is complete, the next thing we need to do is generate our key pair. To do so, run the following command below.
+After installation completed, the next thing I did was generated my key pair.
+
+To do so, I ran the following command.
 
 {% highlight javascript %}
   gpg --full-generate-key
@@ -77,49 +81,51 @@ After installation is complete, the next thing we need to do is generate our key
 
 <br/>
 
-You'll be prompted to select the type of key you want.
+I was prompted to select the type of key I wanted.
 
-Select option 1: [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) and RSA (default).
+I selected option 1: [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) and RSA (default).
 
 ![Key Type](/img/PGP/generatekeyscommandandselection.jpg)
 
 <br/>
 <br/>
-Next, you'll be prompted to select the bit size. The default option is 3072, but we will select the maximum of 4096 bits.
+Next, I was prompted to select the bit size. The default option is 3072, but I selected the maximum of 4096 bits.
 
 ![Key Size](/img/PGP/keysize.jpg)
 
 <br/>
 <ationbr/>
-You'll also need to specify how long the keys should remain valid. This is 100% up to you, but I selected "0 = key does not expire" for mine.
+I also needed to specify how long the keys should, I selected "0 = key does not expire".
 
 ![Key Expiration](/img/PGP/keyexpire.jpg)
 
 <br/>
 <br/>
-Specify the user id that you want associated to your keys and then enter "o" or "q" to confirm your entry.
+I specified the user id that I wanted associated to my keys and then entered "o" or "q" to confirm the entry.
 
 ![User Info](/img/PGP/userinfo.jpg)
 
 <br/>
 <br/>
-You'll next have to enter the passphrase for your key pair. Do not forget this passphrase.
+I created a super duper string passphrase for my key pair.
+
+***Do not forget this passphrase.***
 
 ![Enter Passphrase](/img/PGP/enterpassphrase.jpg)
 
 <br/>
 <br/>
 
-And finally, we have our keys generated, yay!!
+And finally, the keys were generated, yay!!
 
 ![Done Output](/img/PGP/doneoutput.jpg)
 <br/>
 <br/>
 
-What we'll want to do next is launch GPA so we can check out what options we have to manage our keys.
+I launched GPA so I could check out what options there are manage my keys.
 
 <br/>
-Run the command below to launch GPA
+I used the command below to launch GPA
 
 {% highlight javascript %}
   sudo gpa
@@ -127,14 +133,14 @@ Run the command below to launch GPA
 
 <br/>
 
-When GPA is first opened, it's going to ask us if we want to generate a private key. Since this is my first time using it, I'm going to click on "Generate key now".
+When GPA is first opened, it asked if I wanted to generate a private key. Since this is my first time using it, I clicked on "Generate key now".
 
 <br/>
 ![Generate Private Key](/img/PGP/generateprivatekey.jpg)
 
 <br/>
 <br/>
-Enter in your details.
+Entered in my details...
 
 ![Enter Full Name](/img/PGP/enterfullname.jpg)
 
@@ -142,18 +148,18 @@ Enter in your details.
 ![Enter Email Address](/img/PGP/enteremailaddress.jpg)
 
 <br/>
-It's best to back up the key now, so let's do that.
+It's best to back up the key now, so I backed dat shit up.
 
 ![Back Up Key](/img/PGP/takebackupofkey.jpg)
 
 <br/>
-Finally, enter your passphrase for your private key and confirm it.
+Finally, entered my passphrase for my private key and confirmed it.
 
 ![Private Key Passphrase](/img/PGP/enterpassphraseprivatekey.jpg)
 
 <br/>
 <br/>
-Now in the key manager area of GPA, you should see the private key entry that we just created.
+Now in the key manager area of GPA, I could see the private key entry that was just created.
 
 ![Key Manager Key](/img/PGP/keymanagerkey.jpg)
 
@@ -164,18 +170,17 @@ Now in the key manager area of GPA, you should see the private key entry that we
 
 In order to paste your public key anywhere and everywhere, you have to have a copy of it first.
 
-Click on the export button, as shown below, to export a copy of your public key.
+To get the copy, I clicked on the export button to export a copy of my public key.
 
 ![Export Public Key](/img/PGP/exportpublickey.png)
 
 <br/>
 
-Select the destination path to save your public key.
+Selected the destination path to save my public key.
 ![ave Pub Key](/img/PGP/savepubkey.jpg)
 
 <br/>
 <br/>
-Now that it's exported, open up the pub.txt file and check it out! Sweet bro!
 
  ```text
  -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -218,7 +223,9 @@ My Public Key
 <br/>
 ### Private Key
 
-To export your private key, navigate under the "Keys" nav menu item and then select "Backup..." and then simply select the location where you want to save the private key.
+To export my private key, I could navigate under the "Keys" nav menu item and then select "Backup..." and then simply select the location where I wanted to save the private key.
+
+*Note: I'm not doing this.*
 
 ![Export Private Key](/img/PGP/exportprivatekey.jpg)
 
