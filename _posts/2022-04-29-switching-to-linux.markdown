@@ -13,7 +13,7 @@ article_header:
 ---
 <br/>
 # About This Post
-Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are doing with our data, I'm switching all of my machines from Windows to Linux. This blog will document the adventure I went through when converting one of my machines....
+Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are collecting and doing with our data, I'm switching all of my computers from Windows OS to Linux. This blog will document the adventure I went through when converting one of my computers...
 
 <br/>
 # Why Linux?
