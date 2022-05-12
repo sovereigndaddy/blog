@@ -1,20 +1,30 @@
 ---
 title:  "PGP"
 date:   2022-05-08 19:45:00 -0500
-categories: jekyll update
+layout: article
+articles:
+  show_cover: false
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /img/PGP/pgpbanner.jpg
 ---
-![PGP Banner](/img/PGP/pgpbanner.jpg)
+<br/>
+# About This Post
+In this post, I'll run through a general overview of PGP as I understand it, what PGP program I used for my initial setup and key generation, and lastly, I'll explain how I am actively using it today. Party on Garth...
 
+<br/>
 # PGP Quick Overview
-
-PGP stands for **P**retty **G**ood **P**rivacy.
-It's an encryption system used in data communication that utilizes public key cryptography to sign and encrypt/decrypt data. It was created by cryptographer Phil Zimmerman in 1991. When using a PGP program you can have 2 keys generated, 1 public key and 1 private key and you'll be able to use these keys to communicate with any other person in the world that is also utilizing PGP; it is perfectly private communication. PGP is known as the closest to military grade encryption that is available for public use.
-
-In this post, I'll run through an extremely general overview of PGP as I understand it, what program I used for my initial setup, and how I am using it now. Party on...
+Created by cryptographer [Phil Zimmerman](https://en.wikipedia.org/wiki/Phil_Zimmermann) in 1991, PGP stands for **P**retty **G**ood **P**rivacy, it's an encryption system used in data communication that utilizes [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) to sign and encrypt/decrypt data. When using a PGP program you will have 2 keys generated, 1 public key and 1 private key, and you'll use these keys to communicate with any other person in the world that is also utilizing PGP. PGP is known as the closest to military grade encryption that is available for public use; a perfectly private communication system.
 
 <br/>
 ### Public Keys
-
 Your public key should be broadcast to the world. Put it on your blog, your social media accounts, etc.
 
 This is the key that others can use to encrypt the data/message/email they are sending you during your communications.
@@ -31,16 +41,13 @@ If your private key, gets leaked or hacked, then in theory, whoever has your pri
 ![PGP Encryption Process](/img/PGP/pgpencryptionprocess.jpg)
 
 <br/>
-<br/>
 ### Why Use It?
 - **Authentication:** You can sign using your private key, thus proving your identity.
 - **Data Protection:** It ensures the data sent was not modified during transmission.
-- **Privacy:** Data is always encrypted and secure, only to be viewed by the parties intended.
+- **Privacy:** Data is always encrypted and secure, only to be viewed by the parties involved.
 - **Security:** Data can be shared securely be two or many users.
 
 <br/>
-<br/>
-
 # How to Set it Up?
 
 ### Install PGP Software
@@ -51,12 +58,11 @@ Since I'm using Linux Mint, I'm going to use [GnuPG](https://gnupg.org/), which 
 To start things off, run the command below to install [GnuPG](https://gnupg.org/) along with GPA.
 
 *Note: GPA stands for GNU Privacy Assistant, it is the graphical user interface for GnuPG.*
-
-<br/>
 {% highlight javascript %}
   sudo apt-get install gnupg2 gpa
 {% endhighlight %}
 
+<br/>
 ![Install GnuPG Output](/img/PGP/installgnupgoutput.jpg)
 
 <br/>
@@ -73,7 +79,7 @@ After installation is complete, the next thing we need to do is generate our key
 
 You'll be prompted to select the type of key you want.
 
-Select option 1: RSA and RSA (default).
+Select option 1: [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) and RSA (default).
 
 ![Key Type](/img/PGP/generatekeyscommandandselection.jpg)
 
@@ -104,7 +110,7 @@ You'll next have to enter the passphrase for your key pair. Do not forget this p
 <br/>
 <br/>
 
-And finally, we have our keys generated yay!!
+And finally, we have our keys generated, yay!!
 
 ![Done Output](/img/PGP/doneoutput.jpg)
 <br/>
@@ -204,6 +210,7 @@ Now that it's exported, open up the pub.txt file and check it out! Sweet bro!
  -----END PGP PUBLIC KEY BLOCK-----
 ```
 My Public Key
+
 ![Looky Here](https://media.giphy.com/media/QMZpnb79N5BN0wsSM3/giphy.gif)
 
 
@@ -263,13 +270,11 @@ Encryption completed... You should now have your encrypted message that looks si
 <br/>
 ### Decrypting Data
 
-To decrypt data in GPA, click on the "Decrypt the buffer text" button.
+To decrypt the encrypted message we just created, simply click on the "Decrypt the buffer text" button.
 
 ![Decrypt the Buffer Text](/img/PGP/decryptthebuffertextbutton.jpg)
 
 <br/>
 <br/>
-Decryption in process...
-
 You should now see the original message content like shown below.
 ![Clipboard Input Text](/img/PGP/clipboardinputtext.jpg)

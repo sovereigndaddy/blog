@@ -6,15 +6,8 @@ layout: page
 background: ''
 title: "About"
 ---
-<p>Software developer.</p>
-
-<p>Freedom and privacy enthusiast.</p>
-
-<p>Pro-individualist, anti-collectivist.</p>
-
-<h3 id="why-did-i-create-this-site">Why did I create this site?</h3>
-<ol>
-  <li>Document my work/projects around the topics of freedom and privacy.</li>
-  <li>I hope to help others with their sovereign journey.</li>
-  <li>Before I die, I want to leave an imprint in reality (digital and/or physical).</li>
-</ol>
+<br/>
+<div>
+  <strong>Privacy, self-hosting, and Bitcoin enthusiast. I created this blog to document my sovereign ventures
+    and share this information with anyone who stumbles upon this blog.</strong>
+</div>

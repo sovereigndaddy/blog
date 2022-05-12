@@ -1,7 +1,14 @@
 ---
-title:  "Running My Own Personal Server"
+title:  "Embassy"
 date:   2022-05-02 05:30:00 -0500
 categories: jekyll update
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /img/start9Embassy/start9EmbassyDevice.jpg
 ---
 Running your own personal server is a required step if you want to have digital sovereignty. It can replace one of the most common cloud services... cloud storage, aka Google Drive, OneDrive, etc.
 

@@ -1,12 +1,18 @@
 ---
 # layout: post
-icon: "/img/Linux.jpg"
+layout: article
 title:  "Switching to Linux"
 date:   2022-04-29 08:30:00 -0500
-categories: jekyll update
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /img/antiwindows.jpg
 ---
-![Anti Windows](/img/antiwindows.jpg)
-
+<br/>
+# About This Post
 Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are doing with our data, I'm switching all of my machines from Windows to Linux. This blog will document the adventure I went through when converting one of my machines....
 
 <br/>
@@ -36,7 +42,7 @@ Take Linux at their word and check out their [privacy](https://linuxmint.com/pri
 ### Goal
 My goal was to STOP using the Windows OS. To accomplish this, I'm going to take my old gaming computer, currently running Windows 7 Professional, and install Linux OS on it. I built this computer back in 2012 so the hardware WAS considered good but it's day has since past and I'm now just trying to squeeze as much energy and time as I can out of this old thang.
 
-I have two Western Digital [HDD](https://en.wikipedia.org/wiki/Hard_disk_drive)'s currently installed in my computer, so I'm going to re-purpose the 300 GB VelociRaptor HDD to now be the main hard drive for my Linux OS. This setup will be considered a [multi-boot](https://en.wikipedia.org/wiki/Multi-booting) setup, simply meaning, I'll have both Windows and Linux available to boot.
+I have two Western Digital [HDD](https://en.wikipedia.org/wiki/Hard_disk_drive)'s currently installed in my computer, so I'm going to re-purpose the 300 GB [VelociRaptor](https://en.wikipedia.org/wiki/Western_Digital_Raptor) HDD to now be the main hard drive for my Linux OS. This setup will be considered a [multi-boot](https://en.wikipedia.org/wiki/Multi-booting) setup, simply meaning, I'll have both Windows and Linux available to boot.
 
 <br/>
 ### System Requirements
@@ -59,7 +65,7 @@ Linux Mint [FAQ](https://www.linuxmint.com/faq.php).
 ### Step 1: Backup Hard Drive
 Knowing that I'm going to completely wipe and reformat my hard drive for Linux, I wanted to make sure I had all files backed up that were on that drive so I did a quick manual scan of my files, backup up what I cared about, and left the trash files.
 
-*Just a note: I'm currently using a [Start9](https://start9.com) Embassy private server, along with [File Browser](https://filebrowser.org/) and [Syncthing](https://syncthing.net/) to store all of my files across my computers. I plan to create a blog to cover these topics in the future.*
+*Just a note: I'm currently using a [Start9](https://start9.com) [Embassy One](https://store.start9.com/collections/embassy/products/embassy) private server, along with [File Browser](https://filebrowser.org/) and [Syncthing](https://syncthing.net/) to store all of my files across my computers. I plan to create a blog to cover these topics in the future.*
 
 <br/>
 ### Step 2: Wipe Hard Drive
@@ -98,7 +104,7 @@ I saved the download to a location on my existing Windows machine so I could acc
 
 Don't trust, verify!
 
-Since anyone can generate their own ISO images, I verified that the image I just downloaded was what I expected to download.
+Since anyone can generate their own [ISO image](https://en.wikipedia.org/wiki/Optical_disc_image), I verified that the image I just downloaded was what I expected to download.
 
 There are steps for this posted on the [mirrors](https://linuxmint.com/edition.php?id=292) page.
 
@@ -108,7 +114,7 @@ Or even more detail instructions are provided [here](https://linuxmint-installat
 
 <br/>
 ### Step 6: Create Bootable USB Drive
-Next, I needed to create the bootable USB drive, which all of the steps for this are also well documented [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html). I used a SanDisk 128 GB USB drive that I had already purchased a while back, I had no issue with the steps and my Sandisk USB drive was now bootable.
+Next, I needed to create the [bootable drive](https://en.wikipedia.org/wiki/Boot_disk), which all of the steps for this are also well documented [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html). I used a SanDisk 128 GB USB drive that I had already purchased a while back, I had no issue with the steps and my Sandisk USB drive was now bootable.
 
 ![SanDisk USB](/img/Sandiskusb.jpg)
 
