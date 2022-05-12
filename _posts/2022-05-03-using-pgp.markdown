@@ -45,7 +45,7 @@ If your private key, gets leaked or hacked, then in theory, whoever has your pri
 - **Authentication:** You can sign using your private key, thus proving your identity.
 - **Data Protection:** It ensures the data sent was not modified during transmission.
 - **Privacy:** Data is always encrypted and secure, only to be viewed by the parties involved.
-- **Security:** Data can be shared securely be two or many users.
+- **Security:** Data can be shared securely between two or many users.
 
 <br/>
 # How to Set it Up?
