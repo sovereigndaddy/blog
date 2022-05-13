@@ -107,7 +107,7 @@ I specified the user id that I wanted associated to my keys and then entered "o"
 
 <br/>
 <br/>
-I created a super duper string passphrase for my key pair.
+I created a super duper strong passphrase for my key pair.
 
 ***Do not forget this passphrase.***
 
@@ -122,7 +122,7 @@ And finally, the keys were generated, yay!!
 <br/>
 <br/>
 
-I launched GPA so I could check out what options there are manage my keys.
+### Using GPA
 
 <br/>
 I used the command below to launch GPA
@@ -164,7 +164,7 @@ Now in the key manager area of GPA, I could see the private key entry that was j
 ![Key Manager Key](/img/PGP/keymanagerkey.jpg)
 
 <br/>
-# Export keys
+# Exporting Keys
 
 ### Public Key
 
