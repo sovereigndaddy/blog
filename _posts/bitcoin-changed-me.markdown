@@ -105,7 +105,7 @@ When you use your own hardware wallet you take back control of your private keys
 ## Steel Wallets
 In order to increase the resiliency of my crypto security, I always use a steel wallet to keep a backup of my wallet's [seed phrase](https://en.bitcoin.it/wiki/Seed_phrase). I'll have my original seed phrase entry written in my [Shieldfolio](https://shieldfolio.com/) notebook and then I have a copy of that seed phrase stored in my steel wallet.
 
-With the financial freedom that Bitcoin provides, it also requires new responsibilities like setting up your own disaster plan for securely storing you wallets seed phrase. Steel wallets are the only viable option when trying to secure your Bitcoin from a serious disaster situation; such as a home fire, flood, etc. and should be utilized by ALL Bitcoin owners.
+With the financial freedom that Bitcoin provides, it also requires new responsibilities like setting up your own disaster plan for securely storing you wallet's seed phrase. Steel wallets are the only viable option when trying to secure your Bitcoin from a serious disaster situation; such as a home fire, flood, etc. and should be utilized by ALL Bitcoin owners.
 
 ### My Steel wallets
 
@@ -119,7 +119,7 @@ With the financial freedom that Bitcoin provides, it also requires new responsib
   - Monitor the network to ensure it remains in a healthy state, since your node is constantly validating it will ensure the Bitcoin network has not been manipulated in any way.
   - Increase your own privacy since you can connect your wallet to your own node, you don't have to put your trust in someone else's node when sending/receiving transactions that may compromise your personal information.
 
-  - **"NOT YOUR NODE, NOT YOUR RULES"**
+**"NOT YOUR NODE, NOT YOUR RULES"**
 
 ### Bitcoin Node Devices
   To help support the network and verify transactions, these are my current node devices:
