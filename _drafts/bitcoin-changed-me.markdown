@@ -10,7 +10,7 @@ article_header:
     src: /img/Bitcoin/bitcoin-post-banner.jpg
 ---
 # About this post
-This post is a short post on my exposure to Bitcoin and how I evolved from price obsession to Bitcoin privacy enthusiast.
+This post is a short post on my exposure to Bitcoin and how I evolved from price obsession to Bitcoin enthusiast.
 <br/>
 # Blinded by the Price
 Bitcoin is freedom, but unfortunately most people that know about Bitcoin miss this point completely. They're only aware about the price of bitcoin, what they hear about it on the evening news, or how they should hurry and buy more before it goes to 1 million USD per bitcoin ([FOMO](https://www.dictionary.com/browse/fomo)). It's only until you take a step back and awaken from the price fallacy, that you'll come to the realization that the Bitcoin network itself is an uncensorable and unstoppable force.
@@ -39,22 +39,43 @@ I awoke from this price obsession after actually taking the time to sit down and
 I was completely hooked and it sparked a fire inside me that drove me to researching the issues with traditional banking and how we're being used by the system. Bitcoin aims to solve the problems that are currently plaguing us, below I list out these issues that I see and how Bitcoin can help solve these issues while at the same time providing complete autonomy for the individual utilizing it.
 <br/>
 # Traditional Banking Issues
-- **Accessibility:** Banking systems are only online for a specific number of days and hours during the week. If you need to send money when the bank is not open then you'll be SOL.
-- **Censorship:** In theory, if you think or act the wrong way that is against the current accepted narrative that is being spread by the banks, government, media, etc. then you are at risk. The banks and/or government have the ability to freeze your banking accounts. A recent example of this was the Canadian Trucker Protest where anyone who supported the anti-mandate protest was subject to having their bank accounts frozen; article [here](https://www.bbc.com/news/world-us-canada-60383385).
-- **Data collection:** More surveillance capitalism here. Banks collect and sell your data to 3rd party companies, specifically your credit and debit card activity, so where you shop, how you pay, and what time of day that you go shopping are all being sold to these companies; article [here](https://mysudo.com/2021/03/shocked-or-not-your-bank-is-selling-your-personal-data/).
-- **Fees:** This is obvious, banks are loaded with fees. A fee to have the luxury of even having a bank account open, an overdraft fee if your balance falls below $0, a fee to send my own money; the list goes on...
-- **Financial Inclusion:** Many banking products, rates, payment options are set aside for a special group of people, thus leaving the majority of individuals stuck to the unfavorable banking standards.
-- **Security issues:** Centralized banking systems are proprietary software, you have to put 100% trust that the people responsible for the source code have discovered all security vulnerabilities before a malicious entity finds the vulnerability and takes advantages of the bank's customers and/or their personal data.
-- **Transaction Time:** If you send an international payment right now, it will take multiple days to get to its destination. This is an archaic system.
+### Accessibility
+Banking systems are only online for a specific number of days and hours during the week. If you need to send money when the bank is not open then you'll be SOL.
+
+### Censorship
+In theory, if you think or act the wrong way that is against the current accepted narrative that is being spread by the banks, government, media, etc. then you are at risk. Both the banks and federal government have the ability to freeze your bank accounts if you step out of line. A recent example of this was the Canadian Trucker Protest where anyone who supported the anti-mandate protest was subject to having their bank accounts frozen; article [here](https://www.bbc.com/news/world-us-canada-60383385).
+
+### Data Collection
+More surveillance capitalism here. Banks collect and sell your data to 3rd party companies, specifically your credit and debit card activity, so where you shop, how you pay, and what time of day that you go shopping are all being sold to these companies; article [here](https://mysudo.com/2021/03/shocked-or-not-your-bank-is-selling-your-personal-data/).
+I was completely hooked and it sparked a fire inside me that drove me to researching the issues with traditional banking and how we're being used by the system. Bitcoin aims to solve the problems that are currently plaguing us, below I list out these issues that I see and how Bitcoin can help solve these issues while at the same time providing complete autonomy for the individual utilizing it.
+
+### Fees
+This is obvious, banks are loaded with fees. A fee to have the luxury of even having a bank account open, an overdraft fee if your balance falls below $0, a fee to send my own money; the list goes on...
+
+### Financial Inclusion
+Many banking products, rates, payment options are set aside for a special group of people, thus leaving the majority of individuals stuck to the unfavorable banking standards.
+
+### Security Issues
+Centralized banking systems are proprietary software, you have to put 100% trust that the people responsible for the source code have discovered all security vulnerabilities before a malicious entity finds the vulnerability and takes advantages of the bank's customers and/or their personal data.
+
+### Transaction Time
+If you send an international payment right now, it will take multiple days to get to its destination. This is an archaic system.
 <br/>
 # Bitcoin Solves This
+### Accessibility
+The Bitcoin network never sleeps. You can send/receive a transaction on ANY day at ANY time.
 
-### Bitcoin Traits
-- **Accessibility:** The Bitcoin network never sleeps. You can send/receive a transaction on ANY day at ANY time.
-- **Anonymity:** You can be anonymous within the Bitcoin network as long as you participate carefully and responsibly. No government or central authority can easily track your activity.
-- **Control:** There is no centrally controlled bank that is holding your money for you. The Bitcoin is in your wallet, under your control.
-- **Decentralized:** There is no central authority that oversees the Bitcoin network. Bitcoin at its core is a decentralized peer to peer monetary network that allows anyone in the entire world access to participate in the Bitcoin network.
-- **Uncensorable:** Anyone, anywhere in the world, and at anytime can send a Bitcoin transaction. No bank or government in the entire world can stop a transaction from being sent/received.
+### Anonymity
+You can be anonymous within the Bitcoin network as long as you participate carefully and responsibly. No government or central authority can easily track your activity.
+
+### Control
+There is no centrally controlled bank that is holding your money for you. The Bitcoin is in your wallet, under your control.
+
+### Decentralized
+There is no central authority that oversees the Bitcoin network. Bitcoin at its core is a decentralized peer to peer monetary network that allows anyone in the entire world access to participate in the Bitcoin network.
+
+### Uncensorable
+Anyone, anywhere in the world, and at anytime can send a Bitcoin transaction. No bank or government in the entire world can stop a transaction from being sent/received.
 
 <br/>
 ***Note: The items below are traits of Bitcoin as long as you are holding your Bitcoin in your OWN wallet/s. Centralized exchanges, can eliminate these aspects as the exchanges own the Bitcoin for you and are only allowing you access to the wallet that is holding that Bitcoin.***
@@ -71,7 +92,7 @@ To truly own Bitcoin, you have to hold it yourself. If your Bitcoin is on an exc
 
 When you use your own hardware wallet you take back control of your private keys.
 
-These are the hardware wallet devices that I've used:
+### My Hardware Wallets
 
 ***Note: The BitBox02 is my main wallet and is the only I would suggest***
 
@@ -88,7 +109,7 @@ With the financial freedom that Bitcoin provides, it also requires new responsib
 
 ### My Steel wallets
 
-  - Cryptosteel
+  - [Cryptosteel](https://cryptosteel.com)
 
 ## Running Bitcoin Nodes
 
