@@ -1,7 +1,6 @@
 ---
 title:  "Embassy"
 date:   2022-05-02 05:30:00 -0500
-categories: jekyll update
 article_header:
   type: overlay
   theme: dark
