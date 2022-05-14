@@ -13,7 +13,7 @@ article_header:
 This post is a short post on my exposure to Bitcoin and how I evolved from price obsession to Bitcoin privacy enthusiast.
 <br/>
 # Blinded by the Price
-Bitcoin is freedom, but unfortunately most people that know about Bitcoin miss this point completely. They're only aware about the price of bitcoin, what they hear about it on the evening news, or how they should hurry and buy more before it goes to 1 million USD per bitcoin (FOMO). It's only until you take a step back and awaken from the price fallacy, that you'll come to the realization that the Bitcoin network itself is an uncensorable and unstoppable force.
+Bitcoin is freedom, but unfortunately most people that know about Bitcoin miss this point completely. They're only aware about the price of bitcoin, what they hear about it on the evening news, or how they should hurry and buy more before it goes to 1 million USD per bitcoin ([FOMO](https://www.dictionary.com/browse/fomo)). It's only until you take a step back and awaken from the price fallacy, that you'll come to the realization that the Bitcoin network itself is an uncensorable and unstoppable force.
 
 I fell into this category of price obsession. Back in late 2016 I made my first bitcoin transaction, here's how I acted:
 - I was obsessed about the Bitcoin price "going to the moon".
@@ -33,18 +33,19 @@ I fell into this category of price obsession. Back in late 2016 I made my first 
 Looking back, I feel foolish for behaving like this but I just didn't fully grasp what Bitcoin even was until about a year into it so I guess I'll take it as a learning experience ha...
 <br/>
 # My Price Enlightenment
+### Read the Whitepaper
 I awoke from this price obsession after actually taking the time to sit down and read the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf). This completely changed my life, as I came to the realization that Bitcoin is not just another investment opportunity, but it's a freedom network for the people.
 
-It sparked a fire inside me that drove me to researching the issues with the traditional banking system and how we're being used by the system. Bitcoin aims to solve the problems that are currently plaguing us, below I list out these issues that I see and how Bitcoin can help solve these issues while at the same time providing complete autonomy for the individual utilizing it.
+I was completely hooked and it sparked a fire inside me that drove me to researching the issues with traditional banking and how we're being used by the system. Bitcoin aims to solve the problems that are currently plaguing us, below I list out these issues that I see and how Bitcoin can help solve these issues while at the same time providing complete autonomy for the individual utilizing it.
 <br/>
 # Traditional Banking Issues
 - **Accessibility:** Banking systems are only online for a specific number of days and hours during the week. If you need to send money when the bank is not open then you'll be SOL.
 - **Censorship:** In theory, if you think or act the wrong way that is against the current accepted narrative that is being spread by the banks, government, media, etc. then you are at risk. The banks and/or government have the ability to freeze your banking accounts. A recent example of this was the Canadian Trucker Protest where anyone who supported the anti-mandate protest was subject to having their bank accounts frozen; article [here](https://www.bbc.com/news/world-us-canada-60383385).
-- **Data collection:** More surveillance capitalism here. Banks collect and sell your data to 3rd party companies, specifically your credit and debit card activity, so where you shop, how you pay, and what time of day that you go shopping are all being sold to these companies.
+- **Data collection:** More surveillance capitalism here. Banks collect and sell your data to 3rd party companies, specifically your credit and debit card activity, so where you shop, how you pay, and what time of day that you go shopping are all being sold to these companies; article [here](https://mysudo.com/2021/03/shocked-or-not-your-bank-is-selling-your-personal-data/).
 - **Fees:** This is obvious, banks are loaded with fees. A fee to have the luxury of even having a bank account open, an overdraft fee if your balance falls below $0, a fee to send my own money; the list goes on...
 - **Financial Inclusion:** Many banking products, rates, payment options are set aside for a special group of people, thus leaving the majority of individuals stuck to the unfavorable banking standards.
-- **Security issues:** Centralized banking systems are proprietary software, you have to put 100% trust that the people responsible for the source code have discovered all security vulnerabilities.
-- **Transaction Time:** If you send an international payment right now, it will take multiple days to get to its destination.
+- **Security issues:** Centralized banking systems are proprietary software, you have to put 100% trust that the people responsible for the source code have discovered all security vulnerabilities before a malicious entity finds the vulnerability and takes advantages of the bank's customers and/or their personal data.
+- **Transaction Time:** If you send an international payment right now, it will take multiple days to get to its destination. This is an archaic system.
 <br/>
 # Bitcoin Solves This
 
@@ -57,7 +58,6 @@ It sparked a fire inside me that drove me to researching the issues with the tra
 
 <br/>
 ***Note: The items below are traits of Bitcoin as long as you are holding your Bitcoin in your OWN wallet/s. Centralized exchanges, can eliminate these aspects as the exchanges own the Bitcoin for you and are only allowing you access to the wallet that is holding that Bitcoin.***
-
 <br/>
 # My Bitcoin Ventures
 Over the past couple years, I've come to full appreciation of the Bitcoin network and realize the true possibilities that are in front of all us when using this life-altering technology.
@@ -65,6 +65,30 @@ Over the past couple years, I've come to full appreciation of the Bitcoin networ
 If you want to be a sovereign individual, then you must use Bitcoin. Get away from these centralized banking systems and start taking back your financial control. When you give the banks control of your money, you're at their mercy.
 
 I've been fully supporting the Bitcoin network using any available method as I find time to complete these projects. I'll run through my general Bitcoin setup, as of today, and the benefits of doing so...
+
+## Hardware Wallets
+To truly own Bitcoin, you have to hold it yourself. If your Bitcoin is on an exchange then it's not yours because the exchange is the holder of the private key/s to access "your" Bitcoin, they are simply allowing you access for the time being.
+
+When you use your own hardware wallet you take back control of your private keys.
+
+These are the hardware wallet devices that I've used:
+
+***Note: The BitBox02 is my main wallet and is the only I would suggest***
+
+  - [BitBox02](https://shiftcrypto.ch/bitbox02/) Bitcoin Only edition.
+  - [KeepKey](https://shapeshift.com/keepkey)
+  - [Ledger Nano S/X](https://www.ledger.com/)
+  - [SecuX V20](https://secuxtech.com/secux-v20-hardware-wallet/)
+  - [Trezr](https://trezor.io/)
+
+## Steel Wallets
+In order to increase the resiliency of my crypto security, I always use a steel wallet to keep a backup of my wallet's [seed phrase](https://en.bitcoin.it/wiki/Seed_phrase). I'll have my original seed phrase entry written in my [Shieldfolio](https://shieldfolio.com/) notebook and then I have a copy of that seed phrase stored in my steel wallet.
+
+With the financial freedom that Bitcoin provides, it also requires new responsibilities like setting up your own disaster plan for securely storing you wallets seed phrase. Steel wallets are the only viable option when trying to secure your Bitcoin from a serious disaster situation; such as a home fire, flood, etc. and should be utilized by ALL Bitcoin owners.
+
+### My Steel wallets
+
+  - Cryptosteel
 
 ## Running Bitcoin Nodes
 
@@ -76,7 +100,10 @@ I've been fully supporting the Bitcoin network using any available method as I f
 
   - **"NOT YOUR NODE, NOT YOUR RULES"**
 
-  To help support the network and verify transactions, these are my current devices:
+### Bitcoin Node Devices
+  To help support the network and verify transactions, these are my current node devices:
+
+  ***Note: Each of these devices deserves a post, so I won't dive into details here about setup, usage, etc. just know that each of these is running a Bitcoin node ([Full Nodes](https://bitcoin.org/en/full-node) & [Pruned Nodes](https://academy.bit2me.com/en/que-es-un-nodo-podado/)).***
 
   - [MyNode](https://mynodebtc.com/)
 
@@ -95,15 +122,19 @@ I've been fully supporting the Bitcoin network using any available method as I f
 
 ### Why run a miner?
 
-  **EARN NON-[KYC](https://www.investopedia.com/terms/k/knowyourclient.asp) BITCOIN**
+  Earn NON-[KYC](https://www.investopedia.com/terms/k/knowyourclient.asp) Bitcoin.
+
+### Miner Setups
 
   *Note: NON-KYC Bitcoin is a critical topic and will be discussed in detail in a future blog post :)*
-  - Running gpu miner using my gaming computer along with NiceHash Quick miner
+  - Running gpu miner using my gaming computer with [NiceHash QuickMiner](https://www.nicehash.com/quick-miner)
     ![GPU Miner](/img/Bitcoin/gpuminer.jpg)
+
+  - Just ordered an [Antminer S9](https://cryptoslate.com/products/antminer-s9-14-th-s/) cause they're super cheap now, obviously I know it's not going to be profitable, as they have became under powered over the years due to the natural advancement of technology, but overall that's not my end goal. My goal is to acquire as much NON-KYC Bitcoin as I can, so getting these [ASIC](https://www.investopedia.com/terms/a/asic.asp) miners for this price is worth it for my situation; under $500 with the **P**ower **S**upply **U**nit so I was happy in the end.
 <br/>
 
 # Wrapping Up
-Bitcoin changed me, I can't un-see what I have already seen, I can't unread what I've already read. Banks will never look the same. Government will never look the same. Money is freedom, but it is also a control mechanism; let them control the money and they will control you.
+Bitcoin changed me, I can't un-see what I've already seen, I can't unread what I've already read. Banks will never look the same. Government will never look the same. Money is freedom, but it's also a control mechanism; let them control the money and they will control you.
 
 <h3>Bitcoin: fix the money, fix the world</h3>
 <br/>
