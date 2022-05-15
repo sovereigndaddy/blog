@@ -47,7 +47,6 @@ In theory, if you think or act the wrong way that is against the current accepte
 
 ### Data Collection
 More surveillance capitalism here. Banks collect and sell your data to 3rd party companies, specifically your credit and debit card activity, so where you shop, how you pay, and what time of day that you go shopping are all being sold to these companies; article [here](https://mysudo.com/2021/03/shocked-or-not-your-bank-is-selling-your-personal-data/).
-I was completely hooked and it sparked a fire inside me that drove me to researching the issues with traditional banking and how we're being used by the system. Bitcoin aims to solve the problems that are currently plaguing us, below I list out these issues that I see and how Bitcoin can help solve these issues while at the same time providing complete autonomy for the individual utilizing it.
 
 ### Fees
 This is obvious, banks are loaded with fees. A fee to have the luxury of even having a bank account open, an overdraft fee if your balance falls below $0, a fee to send my own money; the list goes on...
