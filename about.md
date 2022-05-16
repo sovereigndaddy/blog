@@ -17,7 +17,7 @@ title: "About"
   </div>
   <br/>
   <div>
-    <p>Married to a standard software engineering gig by day, but by night my mistress is a named Bitcoin and she's a dirty and privacy freak.</p>
+    <p>Married to a standard software engineering gig by day, but by night my mistress is named Bitcoin and she's a dirty and privacy freak.</p>
     <img src="https://media.giphy.com/media/EuhidVsRs4g5a/giphy.gif" alt="Family Guy">
   </div>
 </div>
