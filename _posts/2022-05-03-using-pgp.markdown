@@ -2,11 +2,8 @@
 title:  "PGP"
 date:   2022-05-08 19:45:00 -0500
 layout: article
-articles:
-  show_cover: false
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
+show_title: false
+show_edit_on_github: false
 article_header:
   type: overlay
   theme: dark
@@ -60,7 +57,7 @@ Since my computer is using Linux Mint, I used [GnuPG](https://gnupg.org/), which
 To start things off, I ran the command below to install [GnuPG](https://gnupg.org/) along with GPA.
 
 *Note: GPA stands for GNU Privacy Assistant, it is the graphical user interface for GnuPG.*
-{% highlight javascript %}
+{% highlight CMD %}
   sudo apt-get install gnupg2 gpa
 {% endhighlight %}
 
@@ -75,7 +72,7 @@ After installation completed, the next thing I did was generated my key pair.
 
 To do so, I ran the following command.
 
-{% highlight javascript %}
+{% highlight CMD %}
   gpg --full-generate-key
 {% endhighlight %}
 
@@ -127,7 +124,7 @@ And finally, the keys were generated, yay!!
 <br/>
 I used the command below to launch GPA
 
-{% highlight javascript %}
+{% highlight CMD %}
   sudo gpa
 {% endhighlight %}
 
