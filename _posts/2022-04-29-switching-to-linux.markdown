@@ -3,6 +3,8 @@
 layout: article
 title:  "Switching to Linux"
 date:   2022-04-29 08:30:00 -0500
+show_title: false
+show_edit_on_github: false
 article_header:
   type: overlay
   theme: dark

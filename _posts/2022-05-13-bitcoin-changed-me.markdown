@@ -1,6 +1,8 @@
 ---
 title:  "Bitcoin Changed Me"
 date:   2022-05-13 20:07:00 -0500
+show_title: false
+show_edit_on_github: false
 article_header:
   type: overlay
   theme: dark
@@ -37,6 +39,8 @@ Looking back, I feel foolish for behaving like this but I just didn't fully gras
 I awoke from this price obsession after actually taking the time to sit down and read the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf). This completely changed my life, as I came to the realization that Bitcoin is not just another investment opportunity, but it's a freedom network for the people.
 
 I was completely hooked and it sparked a fire inside me that drove me to researching the issues with traditional banking and how we're being used by the system. Bitcoin aims to solve the problems that are currently plaguing us, below I list out these issues that I see and how Bitcoin can help solve these issues while at the same time providing complete autonomy for the individual utilizing it.
+show_title: false
+show_edit_on_github: false
 <br/>
 # Traditional Banking Issues
 ### Accessibility
