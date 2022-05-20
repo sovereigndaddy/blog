@@ -30,15 +30,15 @@ I bought my physical hardware [device](https://store.start9.com/products/embassy
 <br/>
 Here's the Embassy One specs.
 
-|:-------------------------|----------------------------------------------:|
-| **Operating System:**    | EmbassyOS 0.3.0                       |
-| **Single Board Computer:**           | Raspberry Pi 4b (8GB)  |
-| **Processor:**        | broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
-| **Memory:**       | 8GB LPDDR4-3200 SDRAM |
-| **Storage:**        | 1TB Samsung T7 SSD      |
-| **USB Ports:**        | 2 x USB 3.0; 2 x USB 2.0  |
-| **Networking:**        | 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Gigabit Ethernet   |
-| **Dimension:**        | 3.54″ x 2.55″ x 1.02″ (90 cm x 65 cm x 26 cm) |
+|:----------------------------|---------------------------------------------------------------------:|
+| **Operating System:**       | EmbassyOS 0.3.0                                                      |
+| **Single Board Computer:**  | Raspberry Pi 4b (8GB)                                                |
+| **Processor:**              | broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz  |
+| **Memory:**                 | 8GB LPDDR4-3200 SDRAM                                                |
+| **Storage:**                | 1TB Samsung T7 SSD                                                   |
+| **USB Ports:**              | 2 x USB 3.0; 2 x USB 2.0                                             |
+| **Networking:**             | 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Gigabit Ethernet         |
+| **Dimension:**              | 3.54″ x 2.55″ x 1.02″ (90 cm x 65 cm x 26 cm)                        |
 
 <br/>
 Here's a screenshot of the device itself.
