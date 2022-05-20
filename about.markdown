@@ -18,6 +18,13 @@ Married to a standard software engineering gig by day, but by night my mistress 
 <br/>
 
 ### Contact Me
+
+Email: unrulable@protonmail.com
+Threema: 9PDER59R
+Twitter: _unrulable
+
+
+
 #### PGP Fingerprint
 ```text
 B423 0C36 2CEB 527D F7D0  E5FC 486E 7CF7 D334 0D13
