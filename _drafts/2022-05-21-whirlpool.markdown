@@ -1,6 +1,6 @@
 ---
-title:  "Non-KYC Bitcoin"
-date:   2022-05-20 04:49:00 -0500
+title:  "Whirlpool"
+date:   2022-05-21 04:49:00 -0500
 show_title: false
 show_edit_on_github: false
 article_header:
@@ -9,7 +9,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /img/Bitcoin/bitcoin-dissolve.jpg
+    src: /img/Whirlpool/whirlpool.jpg
 ---
 
 KYC, short for **K**now **Y**our **C**ustomer, is a standard used by financial institutions that was designed to protect against fraud, corruption, laundering, and "terrorist financing".

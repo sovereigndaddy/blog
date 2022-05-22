@@ -1,6 +1,8 @@
 ---
 title:  "Embassy"
 date:   2022-05-02 05:30:00 -0500
+show_title: false
+show_edit_on_github: false
 article_header:
   type: overlay
   theme: dark
@@ -9,11 +11,13 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/start9Embassy/start9EmbassyDevice.jpg
 ---
-Running your own personal server is a required step if you want to have digital sovereignty. It can replace one of the most common cloud services... cloud storage, aka Google Drive, OneDrive, etc.
+People are being coerced to rely increasingly more on big tech services today. One of the most common cloud services is that of cloud storage like Google Drive or One Drive. These services store your data for you. promising to make your digital life easier and safer, but the side effects of this are threats to your digital sovereignty, privacy, and security. There is an alternative to this though, you can take back your digital sovereignty! Introducing the personal server, your own cloud where you can store your data privately, where you are in charge of your data and where you decide how to best manage YOUR data.
+
+
 
 I want to get away from cloud services, although easier said than done. Over the years, I've acquired and interacted with numerous services from Google, Apple, Microsoft, Amazon, etc. thus giving them my data, my location, my activity, and so on. Within the past year, I've slowly been converting my use from big tech services to free and open source alternatives.
 
-This post will be about my experience with the [Start9 Embassy](https://store.start9.com/products/embassy) personal server. How I set it up and my usage of the device to date.
+This post will be about my experience with the [Start9 Embassy](https://store.start9.com/products/embassy) personal server. How I set it up and how it has completely replaced my use of common cloud storage services aka Google Drive, OneDrive, etc.
 
 <br/>
 ## Big Tech Cloud Services

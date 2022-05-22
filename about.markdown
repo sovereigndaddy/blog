@@ -20,7 +20,35 @@ Married to a standard software engineering gig by day, but by night my mistress 
 ### Contact Me
 
 Email: unrulable@protonmail.com
+
+#### PGP Fingerprint
+
+196f0e9128d35e7bad1468f897035c7e064d3bdf
+
+
+<details>
+    <summary>PGP Full Public Key</summary>
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    Version: OpenPGP.js v4.10.10
+    Comment: https://openpgpjs.org
+
+    xjMEYogEqBYJKwYBBAHaRw8BAQdA6BeC/9F7V0pCPWpGs1kQBzoGxmyVNk5r
+    p4cp28aH7NTNM3VucnVsYWJsZUBwcm90b25tYWlsLmNvbSA8dW5ydWxhYmxl
+    QHByb3Rvbm1haWwuY29tPsKPBBAWCgAgBQJiiASoBgsJBwgDAgQVCAoCBBYC
+    AQACGQECGwMCHgEAIQkQlwNcfgZNO98WIQQZbw6RKNNee60UaPiXA1x+Bk07
+    37HhAQD+YNwbmYxkWXnn4ajb3OBau880NbMQVsSA3IQIBqErtQEA4RmrJZGZ
+    MMBwl6cpLXEUWqfhnHtcQxMVczv3aHhAWA7OOARiiASoEgorBgEEAZdVAQUB
+    AQdARiXV4yN8dJ93rePI8E81XEIvZx4mXUfzWx7ffkHQJg8DAQgHwngEGBYI
+    AAkFAmKIBKgCGwwAIQkQlwNcfgZNO98WIQQZbw6RKNNee60UaPiXA1x+Bk07
+    30GBAQDylLLPuZUsRHRGtZ6+RhnXv6Kmza2SoWS1EH68waTd4wD8DhPVLUPJ
+    GiFRoDeekd+b5tmY/kOPYmTfLJ2OVKMQyA4=
+    =Ehhr
+    -----END PGP PUBLIC KEY BLOCK-----
+</details>
+
 Threema: 9PDER59R
+
 Twitter: _unrulable
 
 
