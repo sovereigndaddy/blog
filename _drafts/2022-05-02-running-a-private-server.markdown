@@ -11,25 +11,22 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/start9Embassy/start9EmbassyDevice.jpg
 ---
-People are being coerced to rely increasingly more on big tech services today. One of the most common cloud services is that of cloud storage like Google Drive or One Drive. These services store your data for you. promising to make your digital life easier and safer, but the side effects of this are threats to your digital sovereignty, privacy, and security. There is an alternative to this though, you can take back your digital sovereignty! Introducing the personal server, your own cloud where you can store your data privately, where you are in charge of your data and where you decide how to best manage YOUR data.
 
-
-
-I want to get away from cloud services, although easier said than done. Over the years, I've acquired and interacted with numerous services from Google, Apple, Microsoft, Amazon, etc. thus giving them my data, my location, my activity, and so on. Within the past year, I've slowly been converting my use from big tech services to free and open source alternatives.
-
-This post will be about my experience with the [Start9 Embassy](https://store.start9.com/products/embassy) personal server. How I set it up and how it has completely replaced my use of common cloud storage services aka Google Drive, OneDrive, etc.
+Introducing the personal server, your own cloud where you can store your data privately, where you are in charge of your data and where you decide how to best manage YOUR data. This is the alternative that I've chosen and this post will be about my experience with the [Start9 Embassy](https://store.start9.com/products/embassy) personal server, how I set it up and how it has completely replaced my use of common cloud storage services aka Google Drive, OneDrive, etc.
 
 <br/>
 ## Big Tech Cloud Services
 Let's start out with society's ever increasing reliance on big tech. We willingly hand over our data, and along with it our privacy, in return for a shiny app that promises to handle ALL of our data responsibility for us. What they fail to mention is the trade-off, and how when you forfeit responsibility to a third party, you also transfer all ownership, security, and trust of said data because it lives within their servers. You're saying, I 100% trust this company to do the right thing with my data. They are the trusted third party throughout the remainder of your relationship, you're at their mercy on how your data will be stored and secured.
 
+One of the most common cloud services is that of cloud storage like Google Drive or One Drive. These services store your data for you, and over the years, I've acquired and interacted with numerous services from Google, Apple, Microsoft, Amazon, etc. thus giving them my data, my location, my activity, and so on. I want to get away from cloud services, although easier said than done, within the past year, I've slowly been converting my use from big tech services to free and open source alternatives.
+
 <br/>
 ## Quick overview
 ### Software
-[Start9 Embassy](https://store.start9.com/products/embassy) is a plug and play personal server. The Embassy OS allows the ability to use open source, trusted applications, without the need for a third party; everything runs within the embassy device itself.
+[Start9 Embassy](https://store.start9.com/products/embassy) is a plug and play personal server device. It runs using the Embassy Operating System, which is completely open source, and it enables the ability to use other open source applications without the need for a trusted third party; everything runs within the embassy device itself.
 
 ### Hardware
-I bought my physical hardware [device](https://store.start9.com/products/embassy) about a year ago. The default setup, ran off of a SD card, but recently, there was a major version upgrade to 0.3.0 that required an [upgrade kit](https://store.start9.com/products/upgrade-kit), so it now runs using an 1 TB Solid State Drive ([SSD](https://en.wikipedia.org/wiki/Solid-state_drive))
+I bought my physical hardware [device](https://store.start9.com/products/embassy) about a year ago. The initial setup, ran off of a SD card, but recently, there was a major version upgrade to 0.3.0 that required an [upgrade kit](https://store.start9.com/products/upgrade-kit), so it now runs using an 1 TB Solid State Drive ([SSD](https://en.wikipedia.org/wiki/Solid-state_drive)).
 
 <br/>
 Here's the Embassy One specs.
@@ -57,16 +54,15 @@ There is also the option to build your own, here is the [DIY Guide](https://star
 ### Simplicity
 Simple, plug and play setup
 
-<br/>
 ### Data Ownership
-YOU own your data cause it lives on YOUR device
+You own your data because it lives on your personal server device. Your files, pictures, etc. are all stored within the external SSD that is connected to the Embassy device.
 
-<br/>
 ### Censorship Resistance
-The data and services live on YOUR device, thus eliminating the "trusted" third party, so you can never be censored if you think or say something against the accepted narrative.
+Since both the data and services live on your Embassy device, there is no need for a "trusted" third party, so you can never be censored by a third party if you think or say something against the accepted narrative.
 
-<br/>
 ### Privacy
-By using the Embassy and its apps and services, YOU control what you want to share with the world.
+The Embassy uses end-to-end encryption along with the Tor network to onion route the communication requests and responses. This puts your privacy in your hands, you control what you want and don't want to share with the world.
 
 <br/>
+
+## Embassy Services

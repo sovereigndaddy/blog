@@ -1,6 +1,6 @@
 ---
-title:  "Whirlpool"
-date:   2022-05-21 04:49:00 -0500
+title:  "Using Sparrow Wallet with BitBox02"
+date:   2022-06-02 05:34:00 -0500
 show_title: false
 show_edit_on_github: false
 article_header:
