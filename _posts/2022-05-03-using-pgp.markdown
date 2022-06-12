@@ -1,7 +1,6 @@
 ---
 title:  "PGP"
 date:   2022-05-08 19:45:00 -0500
-layout: article
 show_title: false
 show_edit_on_github: false
 article_header:
