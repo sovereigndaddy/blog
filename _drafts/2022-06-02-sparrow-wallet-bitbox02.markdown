@@ -67,6 +67,12 @@ For this post, I'm going to leave the "Policy Type" and "Script Type" settings d
 ### Keystores
 Now comes the fun :) connecting our BitBox02 wallet.
 
+#### Connect Hardware Wallet
 Under Keystores, click on the "Connected Hardware Wallet" button
 
 ![Connect Hardware Wallet](/img/SparrowWallet/connect-hardware-wallet-button.jpg)
+
+#### Scan for device
+At this point, we need to connect our BitBox02 wallet to our computer so it can be scanned and found by Sparrow Wallet.
+
+Once connected to our computer, click on the "Scan..." button.
