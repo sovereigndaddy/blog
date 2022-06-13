@@ -12,7 +12,7 @@ article_header:
     src: /img/SparrowWallet/sparrow-logo.jpg
 ---
 <br/>
-Since you should ALWAYS be concerned with privacy when utilizing Bitcoin, this post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish adequate privacy when sending and receiving Bitcoin transactions while at the same time increasing usability of the wallet.
+Since you should ALWAYS be concerned with privacy when utilizing Bitcoin, this post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish adequate privacy when sending and receiving Bitcoin transactions while at the same time increasing my usability of the wallet.
 
 # Why BitBox02
 A couple years back I purchased the [BitBox02](https://shiftcrypto.ch/bitbox02/) Bitcoin-only edition and I haven't regretted it for a second. It has top of the line security and a great user interface which allows for simple and easy usage. The BitBox02 has been designed around security and the potential vulnerabilities that its users could face when sending and receiving Bitcoin, so when I use the device I'm confident that my risk of compromise is extremely low.
@@ -42,3 +42,31 @@ Download the Sparrow Wallet from the [downloads](https://www.sparrowwallet.com/d
 
 ## Verify the Release
 I've preached this before, but ALWAYS verify your installation file is the one you expected to download and was not compromised during the download.
+
+## Configuration
+After you've verified your download, start the configuration.
+
+Since I'm using my own node, I'm going to select the "Private Electrum server" option and enter the IP address for my node.
+
+![Private Server Connection](/img/SparrowWallet/server-connection.jpg)
+
+*Note: Click on the "Test Connection" button to confirm your connection is successful. You should see a message like shown in the screenshot above.*
+
+## Create Wallet
+Creating a wallet is extremely easy, simply navigate under the File menu and then select "New Wallet" (Shortcut CTRL+N).
+
+Enter the wallet name and then click on "Create Wallet".
+
+![Enter Wallet Name](/img/SparrowWallet/enter-wallet-name.jpg)
+
+## Wallet Settings
+
+### Default Settings
+For this post, I'm going to leave the "Policy Type" and "Script Type" settings defaulted but just be aware that these settings can be tweaked to your liking and to match whichever situation you are needing to address, whether that be a multisig situation or maybe you want to utilize Bitcoin Taproot; whatever it may be, Sparrow Wallet has you covered.
+
+### Keystores
+Now comes the fun :) connecting our BitBox02 wallet.
+
+Under Keystores, click on the "Connected Hardware Wallet" button
+
+![Connect Hardware Wallet](/img/SparrowWallet/connect-hardware-wallet-button.jpg)
