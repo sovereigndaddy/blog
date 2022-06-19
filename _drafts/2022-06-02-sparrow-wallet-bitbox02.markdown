@@ -19,6 +19,15 @@ A couple years back I purchased the [BitBox02](https://shiftcrypto.ch/bitbox02/)
 
 One item to call out here, the Bitcoin-only edition is the ONLY option that you should buy if you're planning on purchasing a BitBox02. This edition has its firmware exclusively dedicated to supporting Bitcoin, which in turn means less code and less attack surface for potential malicious attacks.
 
+## Features
+- Open source hardware security
+- Numerous ways to backup your wallet (SD Card, 24 word seed phrase)
+- Uses [ATECC608A](https://www.mouser.com/new/microchip/microchip-atecc608a-crypto-devices/) secure chip
+- 120 MHz microcontroller chip (faster than the ColdCard)
+- [Anti-klepto](https://shiftcrypto.ch/blog/anti-klepto-explained-protection-against-leaking-private-keys/) technology, protects you against exposing your private keys
+- Allows you to connect to your own Bitcoin node
+- Connect via Tor functionality for increased privacy
+
 # Why Sparrow Wallet
 [Sparrow Wallet](https://sparrowwallet.com/) is a non-custodial Bitcoin wallet with a strong focus on privacy, security, and usability. It is designed to be connected to your own Bitcoin full node and can operate in both online and offline fashions. It provides great advanced features that allow the ability to dig into your Bitcoin transactions for a clearer understanding, thus leading to a better control of your Bitcoin transactions.
 
@@ -57,7 +66,7 @@ Creating a wallet is extremely easy, simply navigate under the File menu and the
 
 Enter the wallet name and then click on "Create Wallet".
 
-![Enter Wallet Name](/img/SparrowWallet/enter-wallet-name.jpg)
+![Enter Wallet Name](/img/SparrowWallet/new-bitcoin-wallet.jpg)
 
 ## Wallet Settings
 
@@ -70,9 +79,75 @@ Now comes the fun :) connecting our BitBox02 wallet.
 #### Connect Hardware Wallet
 Under Keystores, click on the "Connected Hardware Wallet" button
 
-![Connect Hardware Wallet](/img/SparrowWallet/connect-hardware-wallet-button.jpg)
+![Connect Hardware Wallet](/img/SparrowWallet/keystores-connected-hardware-wallet.jpg)
 
 #### Scan for device
 At this point, we need to connect our BitBox02 wallet to our computer so it can be scanned and found by Sparrow Wallet.
 
-Once connected to our computer, click on the "Scan..." button.
+Once you have your BitBix02 device connected to the computer, click on the "Scan..." button.
+![Scan For BitBox02](/img/SparrowWallet/scan-for-devices.jpg)
+
+#### Import BitBox02 Keystore
+You should see your BitBox02 device displayed like shown below, simply click on the "Import Keystore" which will 
+![Select BitBox Device](/img/SparrowWallet/select-bitbox-wallet-to-import.jpg)
+
+You should now see your wallet and settings. Take note of the master fingerprint as this is how you can confirm the wallet identity if you have to restore it again in the future.
+
+Then, click on the "Apply" button.
+![Apply Settings](/img/SparrowWallet/apply-bitbox02-settings.jpg)
+
+<br/>
+# Send Bitcoin
+Now that we have our BitBox02 setup in combination with the Sparrow Wallet, let's go ahead and demonstrate sending a Bitcoin transaction.
+
+### Create Send Transaction
+Click on the "Send" tab to open the Send Transaction window.
+
+Within the top section of this screen you'll need to provide the Bitcoin address where you are sending the transaction, the amount of Bitcoin to send, and a label for your transaction.
+
+![Send Bitcoin Settings](/img/SparrowWallet/send-bitcoin-settings.jpg)
+
+One great feature to mention here is the ability to configure our "Fee" to the exact amount that we want.
+
+If you drag the fee slider too high, you'll see a warning that you are overpaying for your transaction. I personally love this feature, as I've been a victim of a stuck Bitcoin transaction due to my fee being too low. 
+
+![Overpaid Fee Message](/img/SparrowWallet/overpaid-fee-message.jpg)
+
+For this example, I'll leave the transaction set to a high priority amount.
+
+![High Priority Create Transaction](/img/SparrowWallet/high-priority-fee-create-transaction.jpg)
+
+Then, click on the "Create Transaction" button.
+
+<br/>
+
+### Sign Transaction
+On the next screen, you'll see the overview of your transaction where you can review the details once more before you sign and send the transaction. Review this carefully to ensure you didn't make any mistakes.
+
+![Send Final Overview](/img/SparrowWallet/send-transaction-final-overview.jpg)
+
+You can even configure settings here to add a transaction delay based on either the block height or a specific date.
+
+![Send Details For Delay](/img/SparrowWallet/send-transaction-details-tab.jpg)
+
+Once everything looks good, click on the "Finalize Transaction for Signing" button.
+
+<br/>
+
+You'll need to sign the transaction using your BitBox02 device like you would for any other send transaction.
+
+### Broadcast Transaction
+Once signed, click on the "Broadcast Transaction"
+
+![Broadcast Bitcoin Send Transaction](/img/SparrowWallet/broadcast-send-bitcoin-transaction.jpg)
+
+If broadcasted successfully, you should see a similar message as shown below.
+
+![Broadcast Bitcoin Send Transaction Confirmed](/img/SparrowWallet/broadcast-send-bitcoin-transaction-confirmed.jpg)
+
+And finally, as the confirmations are completed on the Bitcoin blockchain you should receive confirmation messages to inform you.
+
+![Transaction Confirmations](/img/SparrowWallet/transaction-send-confirmed-completed.jpg)
+
+## Receive Bitcoin
+Now that we have our BitBox02 setup in combination with the Sparrow Wallet, let's go ahead and demonstrate receiving a Bitcoin transaction.
