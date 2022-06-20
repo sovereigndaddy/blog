@@ -1,6 +1,6 @@
 ---
-title:  "Using Sparrow Wallet with BitBox02"
-date:   2022-06-02 05:34:00 -0500
+title:  "Sparrow Wallet and my BitBox02"
+date:   2022-06-20 11:00:00 -0500
 show_title: false
 show_edit_on_github: false
 article_header:
@@ -12,7 +12,7 @@ article_header:
     src: /img/SparrowWallet/sparrow-logo.jpg
 ---
 <br/>
-Since you should ALWAYS be concerned with privacy when utilizing Bitcoin, this post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish adequate privacy when sending and receiving Bitcoin transactions while at the same time increasing my usability of the wallet.
+This post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish great privacy when sending and receiving Bitcoin transactions while at the same time increasing my usability of the wallet.
 
 # Why BitBox02
 A couple years back I purchased the [BitBox02](https://shiftcrypto.ch/bitbox02/) Bitcoin-only edition and I haven't regretted it for a second. It has top of the line security and a great user interface which allows for simple and easy usage. The BitBox02 has been designed around security and the potential vulnerabilities that its users could face when sending and receiving Bitcoin, so when I use the device I'm confident that my risk of compromise is extremely low.
@@ -27,6 +27,8 @@ One item to call out here, the Bitcoin-only edition is the ONLY option that you 
 - [Anti-klepto](https://shiftcrypto.ch/blog/anti-klepto-explained-protection-against-leaking-private-keys/) technology, protects you against exposing your private keys
 - Allows you to connect to your own Bitcoin node
 - Connect via Tor functionality for increased privacy
+
+<br/>
 
 # Why Sparrow Wallet
 [Sparrow Wallet](https://sparrowwallet.com/) is a non-custodial Bitcoin wallet with a strong focus on privacy, security, and usability. It is designed to be connected to your own Bitcoin full node and can operate in both online and offline fashions. It provides great advanced features that allow the ability to dig into your Bitcoin transactions for a clearer understanding, thus leading to a better control of your Bitcoin transactions.
@@ -43,6 +45,7 @@ One item to call out here, the Bitcoin-only edition is the ONLY option that you 
 - Provides a detailed view of byte level transactions.
 - Provides full control and configuration during the transaction creation and signing process
 
+<br/>
 
 # Setup
 
@@ -109,7 +112,7 @@ Within the top section of this screen you'll need to provide the Bitcoin address
 
 One great feature to mention here is the ability to configure our "Fee" to the exact amount that we want.
 
-If you drag the fee slider too high, you'll see a warning that you are overpaying for your transaction. I personally love this feature, as I've been a victim of a stuck Bitcoin transaction due to my fee being too low. 
+If you drag the fee slider back and forth, you'll see different messages display such as "High Priority" or "Overpaid". I personally love this feature, as I've been a victim of a stuck Bitcoin transaction due to my fee being too low. 
 
 ![Overpaid Fee Message](/img/SparrowWallet/overpaid-fee-message.jpg)
 
@@ -119,35 +122,67 @@ For this example, I'll leave the transaction set to a high priority amount.
 
 Then, click on the "Create Transaction" button.
 
-<br/>
-
 ### Sign Transaction
-On the next screen, you'll see the overview of your transaction where you can review the details once more before you sign and send the transaction. Review this carefully to ensure you didn't make any mistakes.
-
-![Send Final Overview](/img/SparrowWallet/send-transaction-final-overview.jpg)
+On the next screen, you'll see the overview of your transaction where you can review the details once more before you sign and broadcast the transaction. Review this carefully to ensure you didn't make any mistakes.
 
 You can even configure settings here to add a transaction delay based on either the block height or a specific date.
 
 ![Send Details For Delay](/img/SparrowWallet/send-transaction-details-tab.jpg)
 
-Once everything looks good, click on the "Finalize Transaction for Signing" button.
+Once you've reviewed the everything, click on the "Finalize Transaction for Signing" button.
+
+![Send Final Overview](/img/SparrowWallet/send-transaction-final-overview.jpg)
 
 <br/>
 
 You'll need to sign the transaction using your BitBox02 device like you would for any other send transaction.
 
+You should see the transaction details appear on your BitBox02 device.
+
+![BitBox02 Sign Transaction](/img/SparrowWallet/bitbox-sign-transaction.jpeg)
+
+Review the amount and address and if all looks correct, sign the transaction.
+
+<br/>
 ### Broadcast Transaction
-Once signed, click on the "Broadcast Transaction"
+Once signed from your BitBox02 device, another screen will display in Sparrow Wallet for you to broadcast the transaction to the Bitcoin Blockchain.
+
+Simply, click on the "Broadcast Transaction".
 
 ![Broadcast Bitcoin Send Transaction](/img/SparrowWallet/broadcast-send-bitcoin-transaction.jpg)
 
+<br/>
 If broadcasted successfully, you should see a similar message as shown below.
 
 ![Broadcast Bitcoin Send Transaction Confirmed](/img/SparrowWallet/broadcast-send-bitcoin-transaction-confirmed.jpg)
 
+<br/>
 And finally, as the confirmations are completed on the Bitcoin blockchain you should receive confirmation messages to inform you.
 
 ![Transaction Confirmations](/img/SparrowWallet/transaction-send-confirmed-completed.jpg)
 
+<br/>
+
 ## Receive Bitcoin
-Now that we have our BitBox02 setup in combination with the Sparrow Wallet, let's go ahead and demonstrate receiving a Bitcoin transaction.
+In order to receive Bitcoin, click on the "Receive" tab.
+
+You'll immediately see that your address is already loaded up with the QR Code displaying.
+
+You can click on the "Get Next Address" button to get your another address of yours to have the Bitcoin sent to.
+
+![Receive Bitcoin Screen](/img/SparrowWallet/receive-bitcoin.jpg)
+
+Once you have the right receive address, use that address to send some Bitcoin to :)
+
+You'll receive a notification the instant the transaction is detected.
+
+![Receive Bitcoin Notification](/img/SparrowWallet/receive-bitcoin-notification.jpg)
+
+<br/>
+
+# Conclusion
+Overall, those are the first steps I've taken with Sparrow Wallet and my BitBox02 device. It's been only a positive experience so far and I look forward to using more advanced functionlity like the capability for PSBT, multisig, etc. 
+
+Good day y'all!
+
+
