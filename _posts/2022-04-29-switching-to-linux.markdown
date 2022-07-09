@@ -12,7 +12,8 @@ article_header:
     src: /img/antiwindows.jpg
 ---
 <br/>
-# About This Post
+
+# Intro
 Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are collecting and doing with our data, I'm switching all of my computers from Windows OS to Linux. This blog will document the adventure I went through when converting one of my computers...
 
 <br/>

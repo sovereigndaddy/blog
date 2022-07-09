@@ -12,7 +12,8 @@ article_header:
     src: /img/PGP/pgpbanner.jpg
 ---
 <br/>
-# About This Post
+
+# Intro
 In this post, I'll run through a general overview of PGP as I understand it, what PGP program I used for my initial setup and key generation, and lastly, I'll explain how I am actively using it today. Party on Garth...
 
 <br/>

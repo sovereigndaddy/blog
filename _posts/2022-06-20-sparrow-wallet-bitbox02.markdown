@@ -12,7 +12,9 @@ article_header:
     src: /img/SparrowWallet/sparrow-logo.jpg
 ---
 <br/>
-This post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish great privacy when sending and receiving Bitcoin transactions while at the same time increasing my usability of the wallet.
+
+# Intro
+This post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish great privacy and security when sending and receiving Bitcoin transactions, while at the same time increasing my understanding of these transactions by providing extreme detail using the Sparrow private explorer.
 
 # Why BitBox02
 A couple years back I purchased the [BitBox02](https://shiftcrypto.ch/bitbox02/) Bitcoin-only edition and I haven't regretted it for a second. It has top of the line security and a great user interface which allows for simple and easy usage. The BitBox02 has been designed around security and the potential vulnerabilities that its users could face when sending and receiving Bitcoin, so when I use the device I'm confident that my risk of compromise is extremely low.
@@ -122,6 +124,7 @@ For this example, I'll leave the transaction set to a high priority amount.
 
 Then, click on the "Create Transaction" button.
 
+<br/>
 ### Sign Transaction
 On the next screen, you'll see the overview of your transaction where you can review the details once more before you sign and broadcast the transaction. Review this carefully to ensure you didn't make any mistakes.
 
@@ -164,17 +167,14 @@ And finally, as the confirmations are completed on the Bitcoin blockchain you sh
 <br/>
 
 ## Receive Bitcoin
-In order to receive Bitcoin, click on the "Receive" tab.
-
-You'll immediately see that your address is already loaded up with the QR Code displaying.
-
-You can click on the "Get Next Address" button to get your another address of yours to have the Bitcoin sent to.
+In order to receive Bitcoin, click on the "Receive" tab. You'll immediately see that your address is already loaded up with the QR Code displaying. You can click on the "Get Next Address" button to get your another address of yours to have the Bitcoin sent to.
 
 ![Receive Bitcoin Screen](/img/SparrowWallet/receive-bitcoin.jpg)
 
-Once you have the right receive address, use that address to send some Bitcoin to :)
+Once you have your Bitcoin address, use that address to send some Bitcoin to :)
 
-You'll receive a notification the instant the transaction is detected.
+<br/>
+After sending it to your Bitcoin address, you'll receive a notification the instant the transaction is detected.
 
 ![Receive Bitcoin Notification](/img/SparrowWallet/receive-bitcoin-notification.jpg)
 

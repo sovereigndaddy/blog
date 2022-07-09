@@ -11,7 +11,9 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/Bitcoin/bitcoin-post-banner.jpg
 ---
-# About this post
+<br/>
+
+# Intro
 This post is a short post on my exposure to Bitcoin and how I evolved from price obsession to Bitcoin enthusiast.
 <br/>
 # Blinded by the Price
