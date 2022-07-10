@@ -35,13 +35,13 @@ More specifically, the ASIC miner is designed to mine using a particular algorit
 ### How to get started
 
 #### Resources
-Firstly, I stronly suggest reading both of these guides below. They are phenomenal resources on the topic on how to start home Bitcoin mining the right way, while also keeping security and privacy at the forefront.
+Firstly, I strongly suggest reading both of these guides below. They are phenomenal resources on the topic of how to start home Bitcoin mining correctly, while also keeping security and privacy at the forefront.
 - [Mining for the Streets](https://diverter.hostyourown.tools/mining-for-the-streets/)
 - [Home mining for non-KYC Bitcoin](https://www.econoalchemist.com/post/home-mining-for-non-kyc-bitcoin)
 
 #### Prepare Environment
-Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environment for your new mining setup.
-- You'll need a 220 volt outlet for the bare minimum requirements so have the required electricity needs and components installed, if not already.
+Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environment for your new mining setup. The last thing you want to do is ruin your ASIC miner/s or even worse, start an electrical fire because your home's electrical setup didn't meet the minimum requirements to be running an ASIC miner.
+- You'll need a 220 volt outlet, have the required electricity needs and components installed.
   - *Note: depending on how many miners you plan to run, your electricity needs will obviously vary based on that factor so verify your math or have a licensed electrician assist you so you don't fuck this critical part up.*
 - Determine how you'll handle the ASIC miner effects as it is loud AF and hotter than the devil's dick.
   - Options:
