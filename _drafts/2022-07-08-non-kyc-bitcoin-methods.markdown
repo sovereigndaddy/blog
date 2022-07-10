@@ -20,13 +20,38 @@ When you utilize financial exchanges that require you go through the KYC process
 
 KYC feeds the state surveillance. KYC is anti-Bitcoin. 
 
+You can **NEVER** un-KYC yourself so be extremely cautious about who you hand over your data to.
+
+
 In the content below, I outline the ways that I use to bypass KYC and do my best to fight against the surveillance state in the ever-encroaching world of big data.
 
 # Mining
 
 ## ASIC Mining
-### What is ASIC Mining?
+### Bitcoin ASIC Mining
+ASIC mining is the act of mining Bitcoin using a specialized computer device called an **A**pplication **S**pecific **I**ntegrated **C**ircuit miner; it does one thing and one thing only, **IT MINES BITCOIN**.
+
+More specifically, the ASIC miner is designed to mine using a particular algorithm called [SHA-256](https://www.movable-type.co.uk/scripts/sha256.html), which is the cryptographic hash algorithm that the Bitcoin network utilizes.
 ### How to get started
+
+#### Resources
+Firstly, I stronly suggest reading both of these guides below. They are phenomenal resources on the topic on how to start home Bitcoin mining the right way, while also keeping security and privacy at the forefront.
+- [Mining for the Streets](https://diverter.hostyourown.tools/mining-for-the-streets/)
+- [Home mining for non-KYC Bitcoin](https://www.econoalchemist.com/post/home-mining-for-non-kyc-bitcoin)
+
+#### Prepare Environment
+Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environment for your new mining setup.
+- You'll need a 220 volt outlet for the bare minimum requirements so have the required electricity needs and components installed, if not already.
+  - *Note: depending on how many miners you plan to run, your electricity needs will obviously vary based on that factor so verify your math or have a licensed electrician assist you so you don't fuck this critical part up.*
+- Determine how you'll handle the ASIC miner effects as it is loud AF and hotter than the devil's dick.
+  - Options:
+    - Build a box that will house your Bitcoin ASIC miner, thus reducing sound and allowing for ducting that will properly route the heat.
+    - Setup an immersion mining tank that will eliminate both noise and heat from the air around you.
+
+#### Buy ASIC Miner
+Below are the marketplaces that I've successfully purchased Bitcoin ASIC miners without any issues. 
+- [KaboomRacks](https://t.me/s/kaboomracks)
+- [NewEgg](https://www.newegg.com/)
 
 ## GPU Mining
 ### What is GPU Mining?
@@ -35,12 +60,17 @@ The simplest way to get started GPU miner is use a desktop computer that you own
 
 # P2P Exchanges
 
-### Bisq
-### HodlHodl
-### RoboSats
+- [Bisq](https://bisq.network/)
+- [Hodl Hodl](https://hodlhodl.com/)
+- [Local Coin Swap](https://localcoinswap.com/)
+- [RoboSats](http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion)
+  - *Note: use [Tor Browser](https://www.torproject.org/download/) to access the RoboSats .onion URL*
+
+# Bitcoin ATMs
+
+
 
 # Coin Mixing
 
-### JoinMarket
-
-### Whirlpool
+- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
+- [Whirlpool](https://samouraiwallet.com/whirlpool)
