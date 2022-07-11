@@ -3,6 +3,7 @@ title:  "Embassy"
 date:   2022-05-02 05:30:00 -0500
 show_title: false
 show_edit_on_github: false
+cover: '/img/start9Embassy/start9EmbassyDevice.jpg'
 article_header:
   type: overlay
   theme: dark

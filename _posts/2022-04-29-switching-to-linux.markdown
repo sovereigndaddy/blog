@@ -3,6 +3,7 @@ title:  "Switching to Linux"
 date:   2022-04-29 08:30:00 -0500
 show_title: false
 show_edit_on_github: false
+cover: '/img/antiwindows.jpg'
 article_header:
   type: overlay
   theme: dark
@@ -11,8 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/antiwindows.jpg
 ---
-<br/>
-
 # Intro
 Due to the increased monitoring and collection of data, which you can read through Microsoft's [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to see exactly what they are collecting and doing with our data, I'm switching all of my computers from Windows OS to Linux. This blog will document the adventure I went through when converting one of my computers...
 

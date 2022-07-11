@@ -3,6 +3,7 @@ title:  "Bitcoin Changed Me"
 date:   2022-05-13 20:07:00 -0500
 show_title: false
 show_edit_on_github: false
+cover: '/img/Bitcoin/bitcoin-post-banner.jpg'
 article_header:
   type: overlay
   theme: dark
@@ -11,8 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/Bitcoin/bitcoin-post-banner.jpg
 ---
-<br/>
-
 # Intro
 This post is a short post on my exposure to Bitcoin and how I evolved from price obsession to Bitcoin enthusiast.
 <br/>

@@ -3,6 +3,7 @@ title:  "Sparrow Wallet and my BitBox02"
 date:   2022-06-20 11:00:00 -0500
 show_title: false
 show_edit_on_github: false
+cover: '/img/SparrowWallet/sparrow-logo.jpg'
 article_header:
   type: overlay
   theme: dark
@@ -11,8 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/SparrowWallet/sparrow-logo.jpg
 ---
-<br/>
-
 # Intro
 This post will be about my use of the [Sparrow Wallet](https://sparrowwallet.com/) along with my [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet. In combination these devices are helping me accomplish great privacy and security when sending and receiving Bitcoin transactions, while at the same time increasing my understanding of these transactions by providing extreme detail using the Sparrow private explorer.
 

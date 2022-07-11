@@ -3,6 +3,7 @@ title:  "Non-KYC Bitcoin Methods"
 date:   2022-07-08 06:47:00 -0500
 show_title: false
 show_edit_on_github: false
+cover: '/img/Bitcoin/bitcoin-dissolve.jpg'
 article_header:
   type: overlay
   theme: dark
@@ -11,8 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/Bitcoin/bitcoin-dissolve.jpg
 ---
-<br/>
-
 # Intro
 ### KYC Brief Overview
 KYC or **K**now **Y**our **C**ustomer or **K**now **Y**our **C**lient, is a standard used by financial institutions that was designed to protect against fraud, corruption, laundering, and "terrorist financing".
@@ -37,7 +36,7 @@ Alright let's get to fighting against the surveillance state.
 <br/>
 # Mining
 
-## Bitcoin ASIC Mining
+## Bitcoin ASIC Miningparty on
 ASIC mining is the act of mining Bitcoin using a specialized computer device called an **A**pplication **S**pecific **I**ntegrated **C**ircuit miner; it does one thing and one thing only, **IT MINES BITCOIN**.
 
 More specifically, the ASIC miner is designed to mine using a particular algorithm called [SHA-256](https://www.movable-type.co.uk/scripts/sha256.html), which is the cryptographic hash algorithm that the Bitcoin network utilizes.

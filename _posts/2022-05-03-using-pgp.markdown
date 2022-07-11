@@ -3,6 +3,7 @@ title:  "PGP"
 date:   2022-05-08 19:45:00 -0500
 show_title: false
 show_edit_on_github: false
+cover: '/img/PGP/pgpbanner.jpg'
 article_header:
   type: overlay
   theme: dark
@@ -11,8 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /img/PGP/pgpbanner.jpg
 ---
-<br/>
-
 # Intro
 In this post, I'll run through a general overview of PGP as I understand it, what PGP program I used for my initial setup and key generation, and lastly, I'll explain how I am actively using it today. Party on Garth...
 
