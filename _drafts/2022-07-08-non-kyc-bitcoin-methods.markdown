@@ -61,13 +61,18 @@ Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environme
       - Here's a good intro [article](https://compassmining.io/education/immersion-bitcoin-mining-introduction/) on immersion mining, read up on the topic and get to work!
 
 #### Buy ASIC Miner
+
+*Note: There are many other sources that you can purchase ASIC miners from but I can't confirm the legitimacy of those sources so I'm not going to mention them.*
+
 Below are the marketplaces that I've successfully purchased Bitcoin ASIC miners without any issues. 
 - [KaboomRacks](https://t.me/s/kaboomracks)
 - [NewEgg](https://www.newegg.com/)
 
-Specifically, I purchased two of the [Bitmain Antminer S9J](https://www.asicminervalue.com/miners/bitmain/antminer-s9j-14-5th) models. The first one I paid $480.00 and the second one I paid $390.00, both miners came with a Antminer APW7 **P**ower **S**upply **U**nit so I didn't need to purchase anything additional. The reason the price decreased between the two purchases was that I purchased the first miner when the bitcoin price was at $45K and by the time I purchased the second miner the bitcoin price had dropped to about $21K levels, this is a great example to illustrate how these ASIC miners value is currently directly correlated with the bitcoin price, hashing difficulity, and overall mining competition. 
+Specifically, I purchased two of the [Bitmain Antminer S9J](https://www.asicminervalue.com/miners/bitmain/antminer-s9j-14-5th) models. The first one I paid $480.00 and the second one I paid $390.00, both miners came with a Antminer APW7 **P**ower **S**upply **U**nit so I didn't need to purchase anything additional. 
 
-*Note: There are many other sources that you can purchase ASIC miners from but I can't confirm the legitimacy of those sources so I'm not going to mention them.*
+The reason the price decreased between the two purchases was that I purchased the first miner when the bitcoin price was at $45K and by the time I purchased the second miner the bitcoin price had dropped to about $21K levels. This is a great example to illustrate how these ASIC miners value is currently directly correlated with the bitcoin price, hashing difficulity, and overall mining competition as all of these combined will impact the profitability, but luckily for me, I don't give a shit about the profitability, this venture is solely about acquiring non-KYC so let's keep on keepin on.
+
+![Keep on - Joe Dirt](/img/keep-on-keepin-on.jpg)
 
 # P2P Exchanges
 All of these options below are peer to peer exchanges, meaning you are trading/swapping directly with your peers, there is no centralized third party involved. Some being more decentralized than others though and each offering their own advantages. I'd suggest doing a bit of research into each then choosing one.
