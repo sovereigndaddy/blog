@@ -75,14 +75,14 @@ The reason the price decreased between the two purchases was that I purchased th
 ![Keep on - Joe Dirt](/img/keep-on-keepin-on.jpg)
 
 # P2P Exchanges
-All of these options below are peer to peer exchanges that I have personally bought bitcoin from. When using these applications you are trading/swapping directly with your peers, there is no centralized third party involved. Each offering their own advantages, I'd suggest doing a bit of research into each and then choose one.
+All of these options below are decentralized peer to peer exchanges that I have personally bought bitcoin from. In general, decentralized exchanges have many advantages such as, no single point of failure, no single point of control, and no single point of regulation. You're trading/swapping directly with your peers, there is no centralized third party involved. You don't need to create an account with the exchange and you don't need to transfer your money/assets to the exchange, so there's no risk of your data and/or funds being stolen by malicious entities.
 - [Bisq](https://bisq.network/)
   - Decentralized
   - Non-Custodial
   - Tor by default
   - No-KYC
 
-  ***Note:*** *Bisq requires a security deposit in bitcoin. This helps deter malicious entities from attempting to defraud Bisq's users, but it also can be seen as a barrier because before you can buy bitcoin you first have to deposit bitcoin...*
+  ***Note:*** *Bisq requires a security deposit in bitcoin. This helps deter malicious entities from attempting to defraud Bisq's users*
 - [RoboSats](http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion)
   - Decentralized
   - Non-Custodial
