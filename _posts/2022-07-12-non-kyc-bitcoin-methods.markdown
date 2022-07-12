@@ -56,7 +56,7 @@ Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environme
   - *Note: depending on how many miners you plan to run, your electricity needs will obviously vary based on that factor so verify your math or have a licensed electrician assist you so you don't fuck this critical part up.*
 - Determine how you'll handle the ASIC miner effects as it is loud AF and hotter than the devil's dick.
   - Options:
-    - Build a box that will house your Bitcoin ASIC miner, thus reducing sound decibels and allowing for the heat to be properly venting through ducting.
+    - Build a box that will house your Bitcoin ASIC miner, thus reducing sound decibels and allowing for the heat to be properly vented through the ducting.
     - Set up an immersion mining tank. This will eliminate both noise and heat from the environment but you'll have to have the proper setup to cool the liquid.
       - Here's a good intro [article](https://compassmining.io/education/immersion-bitcoin-mining-introduction/) on immersion mining, read up on the topic and get to work!
 
