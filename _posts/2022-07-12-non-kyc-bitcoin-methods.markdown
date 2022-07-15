@@ -129,9 +129,13 @@ In my laments terms, coin mixing is the technique of:
 - Mixing your coins together using magical techniques that the coin mixing service performs 
 - bitcoin are sent back out at random amounts to eventually equal the original amount you sent in 
 
+![Coin Mixer Example](/img/CoinJoinExample.jpg)
+
 ## Mixing Services
 - [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 - [Whirlpool](https://samouraiwallet.com/whirlpool)
+
+***Note:*** *It's critical that you use your OWN Bitcoin node when performing coin mixes, if you don't then your wallet and transactions are not private. When connecting to a public Bitcoin node, you have absolutely no idea who you're connecting too; it could be a government's bitcoin node that they're using to monitor its citizens.*
 
 # TODO
 - Bitcoin ATMs
