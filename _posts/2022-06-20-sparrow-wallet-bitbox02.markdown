@@ -166,14 +166,14 @@ And finally, as the confirmations are completed on the Bitcoin blockchain you sh
 <br/>
 
 ## Receive Bitcoin
-In order to receive Bitcoin, click on the "Receive" tab. You'll immediately see that your address is already loaded up with the QR Code displaying. You can click on the "Get Next Address" button to get your another address of yours to have the Bitcoin sent to.
+In order to receive bitcoin, click on the "Receive" tab. You'll immediately see that your address is already loaded up with the QR Code displaying. You can click on the "Get Next Address" button to get your another address of yours to have the bitcoin sent to.
 
 ![Receive Bitcoin Screen](/img/SparrowWallet/receive-bitcoin.jpg)
 
-Once you have your Bitcoin address, use that address to send some Bitcoin to :)
+Once you have your Bitcoin address, use that address to send some bitcoin to :)
 
 <br/>
-After sending it to your Bitcoin address, you'll receive a notification the instant the transaction is detected.
+After sending it to your Bitcoin address, you'll receive a notification as soon as the transaction is detected.
 
 ![Receive Bitcoin Notification](/img/SparrowWallet/receive-bitcoin-notification.jpg)
 

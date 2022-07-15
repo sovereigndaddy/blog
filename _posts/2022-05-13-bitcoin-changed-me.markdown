@@ -19,7 +19,7 @@ This post is a short post on my exposure to Bitcoin and how I evolved from price
 Bitcoin is freedom, but unfortunately most people that know about Bitcoin miss this point completely. They're only aware about the price of bitcoin, what they hear about it on the evening news, or how they should hurry and buy more before it goes to 1 million USD per bitcoin ([FOMO](https://www.dictionary.com/browse/fomo)). It's only until you take a step back and awaken from the price fallacy, that you'll come to the realization that the Bitcoin network itself is an uncensorable and unstoppable force.
 
 I fell into this category of price obsession. Back in late 2016 I made my first bitcoin transaction, here's how I acted:
-- I was obsessed about the Bitcoin price "going to the moon".
+- I was obsessed about the bitcoin price "going to the moon".
   ![Bitcoin Astronaut](https://media.giphy.com/media/hK61m7SawMkqUcyLg1/giphy.gif)
 
   <br/>
@@ -28,7 +28,7 @@ I fell into this category of price obsession. Back in late 2016 I made my first 
   ![Pump It](https://media.giphy.com/media/8igfrOLF6m9jv0T3W0/giphy.gif)
 
   <br/>
-- I would buy Bitcoin on any centralized crypto exchanges handing out my identity to pretty much whoever wanted it.
+- I would buy bitcoin on any centralized crypto exchanges handing out my identity to pretty much whoever wanted it.
 
   ![SSN](https://media.giphy.com/media/3orif3XPcwvzHLPESk/giphy.gif)
 
@@ -64,15 +64,15 @@ Centralized banking systems are proprietary software, you have to put 100% trust
 ### Transaction Time
 If you send an international payment right now, it will take multiple days to get to its destination. This is an archaic system.
 <br/>
-# Bitcoin Solves This
+# Bitcoin Fixes This
 ### Accessibility
 The Bitcoin network never sleeps. You can send/receive a transaction on ANY day at ANY time.
 
 ### Anonymity
-You can be anonymous within the Bitcoin network as long as you participate carefully and responsibly. No government or central authority can easily track your activity.
+You can be anonymous within the Bitcoin network as long as you participate carefully and responsibly. No government or central authority can easily track your activity; pseudo anonymity
 
 ### Control
-There is no centrally controlled bank that is holding your money for you. The Bitcoin is in your wallet, under your control.
+There is no centrally controlled bank that is holding your money for you. The bitcoin is in your wallet, under your control.
 
 ### Decentralized
 There is no central authority that oversees the Bitcoin network. Bitcoin at its core is a decentralized peer to peer monetary network that allows anyone in the entire world access to participate in the Bitcoin network.
@@ -81,7 +81,7 @@ There is no central authority that oversees the Bitcoin network. Bitcoin at its 
 Anyone, anywhere in the world, and at anytime can send a Bitcoin transaction. No bank or government in the entire world can stop a transaction from being sent/received.
 
 <br/>
-***Note: The items below are traits of Bitcoin as long as you are holding your Bitcoin in your OWN wallet/s. Centralized exchanges, can eliminate these aspects as the exchanges own the Bitcoin for you and are only allowing you access to the wallet that is holding that Bitcoin.***
+***Note: The items below are traits of bitcoin as long as you are holding your bitcoin in your OWN wallet/s. Centralized exchanges, can eliminate these aspects as the exchanges own the bitcoin for you and are only allowing you access to the wallet that is holding that bitcoin.***
 <br/>
 # My Bitcoin Ventures
 Over the past couple years, I've come to full appreciation of the Bitcoin network and realize the true possibilities that are in front of all us when using this life-altering technology.
@@ -91,7 +91,7 @@ If you want to be a sovereign individual, then you must use Bitcoin. Get away fr
 I've been fully supporting the Bitcoin network using any available method as I find time to complete these projects. I'll run through my general Bitcoin setup, as of today, and the benefits of doing so...
 
 ## Hardware Wallets
-To truly own Bitcoin, you have to hold it yourself. If your Bitcoin is on an exchange then it's not yours because the exchange is the holder of the private key/s to access "your" Bitcoin, they are simply allowing you access for the time being.
+To truly own Bitcoin, you have to hold it yourself. If your bitcoin is on an exchange then it's not yours because the exchange is the holder of the private key/s to access "your" bitcoin, they are simply allowing you access for the time being.
 
 When you use your own hardware wallet you take back control of your private keys.
 
@@ -118,14 +118,14 @@ With the financial freedom that Bitcoin provides, it also requires new responsib
 
 ### Why run a node?
   When you run a Bitcoin node, you help:
-  - Bolster and strengthen the network by providing your resources to validate every transaction before it gets added to the Bitcoin blockchain, thus increasing the security of the network.
+  - Strengthen the network by providing your resources to validate every transaction before it gets added to the Bitcoin blockchain, thus increasing the security of the network.
   - Monitor the network to ensure it remains in a healthy state, since your node is constantly validating it will ensure the Bitcoin network has not been manipulated in any way.
   - Increase your own privacy since you can connect your wallet to your own node, you don't have to put your trust in someone else's node when sending/receiving transactions that may compromise your personal information.
 
 **"NOT YOUR NODE, NOT YOUR RULES"**
 
 ### Bitcoin Node Devices
-  To help support the network and verify transactions, these are my current node devices:
+  To help support the Bitcoin network and verify transactions, these are my current node devices:
 
   ***Note: Each of these devices deserves a post, so I won't dive into details here about setup, usage, etc. just know that each of these is running a Bitcoin node ([Full Nodes](https://bitcoin.org/en/full-node) & [Pruned Nodes](https://academy.bit2me.com/en/que-es-un-nodo-podado/)).***
 
@@ -146,15 +146,15 @@ With the financial freedom that Bitcoin provides, it also requires new responsib
 
 ### Why run a miner?
 
-  Earn NON-[KYC](https://www.investopedia.com/terms/k/knowyourclient.asp) Bitcoin.
+  Earn non-[KYC](https://www.investopedia.com/terms/k/knowyourclient.asp) bitcoin.
 
 ### Miner Setups
 
-  *Note: NON-KYC Bitcoin is a critical topic and will be discussed in detail in a future blog post :)*
   - Running gpu miner using my gaming computer with [NiceHash QuickMiner](https://www.nicehash.com/quick-miner)
     ![GPU Miner](/img/Bitcoin/gpuminer.jpg)
 
-  - Just ordered an [Antminer S9](https://cryptoslate.com/products/antminer-s9-14-th-s/) cause they're super cheap now, obviously I know it's not going to be profitable, as they have became under powered over the years due to the natural advancement of technology, but overall that's not my end goal. My goal is to acquire as much NON-KYC Bitcoin as I can, so getting these [ASIC](https://www.investopedia.com/terms/a/asic.asp) miners for this price is worth it for my situation; under $500 with the **P**ower **S**upply **U**nit so I was happy in the end.
+  - I've ordered 2 [Bitmain Antminer S9J](https://www.asicminervalue.com/miners/bitmain/antminer-s9j-14-5th) cause they're super cheap, obviously I know it's not going to be profitable, as they have became under powered over the years due to the natural advancement of technology, but overall that's not my end goal. My goal is to acquire as much non-KYC bitcoin as I can, so getting these [ASIC](https://www.investopedia.com/terms/a/asic.asp) miners for this price is worth it for my situation; well under $500 with the **P**ower **S**upply **U**nit so I was happy in the end.
+
 <br/>
 
 # Wrapping Up

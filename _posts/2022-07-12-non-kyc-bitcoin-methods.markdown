@@ -14,7 +14,7 @@ article_header:
 ---
 # Intro
 ### KYC Brief Overview
-KYC or **K**now **Y**our **C**ustomer or **K**now **Y**our **C**lient, is a standard used by financial institutions that was designed to protect against fraud, corruption, laundering, and "terrorist financing".
+KYC aka **K**now **Y**our **C**ustomer or **K**now **Y**our **C**lient, is a standard used by financial institutions designed to protect against fraud, corruption, money laundering, and "terrorist financing".
 
 Here is a full [article](https://www.investopedia.com/terms/k/knowyourclient.asp) on KYC. I'd suggest reading through this if you want the full details, but in general, just know that when you purchase or sell from financial exchanges that require you go through the KYC process, you're handing over your:
 - Full Name
@@ -27,7 +27,7 @@ Once they have your data, you're at their mercy to properly secure and protect y
 KYC feeds the surveillance state. KYC is anti-Bitcoin.
 
 ### About this Post
-In the content below, I outline the items, applications, and methods that I've personally used to acquire non-KYC Bitcoin, but by no means are these the only ways to of accomplishing this. As always, do your own research. 
+In the content below, I outline the items, applications, and methods that I've personally used to acquire non-KYC Bitcoin or am in the process of completing, but by no means are these the only ways to of accomplishing this. As always, do your own research. 
 
 Alright let's get to fighting against the surveillance state.
 
@@ -54,7 +54,7 @@ Firstly, I strongly suggest reading both of these guides below. They are phenome
 Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environment for your new mining setup. The last thing you want to do is ruin your ASIC miner/s or even worse, start an electrical fire because your home's electrical setup didn't meet the minimum requirements to be running an ASIC miner.
 - Electrical infrastructure setup. You'll need at least a 220 volt outlet so have the required electricity and components installed.
   - I'm currently having a home built and am having 220 volt outlets installed for my home mining setup, so I'll try to document that process as well.
-  - *Note: depending on how many miners you plan to run, your electricity needs will obviously vary based on that factor so verify your math or have a licensed electrician assist you so you don't fuck this critical part up.*
+  *Note: depending on how many miners you plan to run, your electricity needs will obviously vary based on that factor so verify your math or have a licensed electrician assist you so you don't fuck this critical part up.*
 - Determine how you'll handle the ASIC miner effects as it is loud AF and hotter than the devil's dick.
   - Options
     - Build a box that will house your Bitcoin ASIC miner, thus reducing sound decibels and allowing for the heat to be properly vented through the ducting. Below are good options for both DIY and prebuilt manufactured boxes.
@@ -67,6 +67,8 @@ Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environme
     - Immersion mining is a cooling method used to submerse your ASIC miner in a non-conductive liquid. This technique will eliminate both noise and heat from the environment, but requires a somewhat complex setup of circulation pumps and tanks to properly circulate and cool the liquid to disperse the heat efficiently. Don't let that deter you though, just research the topic, get the supplies, and get to work!
       - [Intro to Immersion Mining](https://compassmining.io/education/immersion-bitcoin-mining-introduction/)
       - [Home Immersion Bitcoin Mining Interview](https://bitcoinmagazine.com/business/interview-home-immersion-bitcoin-mining)
+      
+      *This is my newest venture, I'll do my best to document my failures... and wins hopefully :)*
 
 ### Buy ASIC Miner
 
@@ -109,7 +111,8 @@ In general, decentralized exchanges have many advantages such as, no single poin
   - Tor by default
   - No-KYC
 
-  ***Note:*** *Bisq requires a security deposit in bitcoin. This helps deter malicious entities from attempting to defraud Bisq's users*
+  ***Note:*** *This is a big one... Bisq requires a security deposit in bitcoin. This helps deter malicious entities from attempting to defraud Bisq's users but also can be seen as a deterrent due to the fact that you first need to be in possession of some bitcoin before you can buy some bitcoin.*
+
 - [RoboSats](http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion)
   - Decentralized
   - Non-Custodial
