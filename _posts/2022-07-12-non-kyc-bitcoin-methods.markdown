@@ -27,7 +27,7 @@ Once they have your data, you're at their mercy to properly secure and protect y
 KYC feeds the surveillance state. KYC is anti-Bitcoin.
 
 ### About this Post
-In the content below, I outline the items, applications, and methodstheir that I've personally used to acquire non-KYC Bitcoin, but by no means are these the only ways to of accomplishing this. As always, do your own research. 
+In the content below, I outline the items, applications, and methods that I've personally used to acquire non-KYC Bitcoin, but by no means are these the only ways to of accomplishing this. As always, do your own research. 
 
 Alright let's get to fighting against the surveillance state.
 
@@ -64,7 +64,7 @@ Before you spend a cent on a physical Bitcoin ASIC miner, prepare your environme
       - Manufactured
         - [Ohmm Black Box](https://shop.upstreamdata.ca/product/ohmm-black-box/)
         - [Lite Sound Box](https://litesoundbox.com/collections/all)
-    - Immersion mining is a cooling method used to submerse your ASIC miner in a non-conductive liquid. This technique will eliminate both noise and heat from the environment, but requires a complex setup of circulation pumps and tanks to properly circulate and cool the liquid and disperse heat efficiently.
+    - Immersion mining is a cooling method used to submerse your ASIC miner in a non-conductive liquid. This technique will eliminate both noise and heat from the environment, but requires a somewhat complex setup of circulation pumps and tanks to properly circulate and cool the liquid to disperse the heat efficiently. Don't let that deter you though, just research the topic, get the supplies, and get to work!
       - [Intro to Immersion Mining](https://compassmining.io/education/immersion-bitcoin-mining-introduction/)
       - [Home Immersion Bitcoin Mining Interview](https://bitcoinmagazine.com/business/interview-home-immersion-bitcoin-mining)
 
@@ -88,11 +88,12 @@ The reason the price decreased between the two purchases was that I purchased th
 ***Note:*** *I'll only be covering the mining pools that I've personally used but there are MANY to choose from.*
 
 #### Overview
-A mining pool is a group of individual miners that are joining their computational resources in order to mine bitcoin.
+A mining pool is a group of individual miners that combine their computational resources to mine bitcoin. Alone the individual miner may have a low [hash rate](https://www.blockchain.com/charts/hash-rate) but when you combine that with the hash rate of a thousand other miners then together you'll be mining some serious bitcoin. You'll be rewarded bitcoin in proportion to the amount of hashing power you are contributing to the pool, so make sure you are aware of the mining pool's rewards, payouts, and fees to determine which one is the right fit for your mining setup.
 
 #### Options
-- [NiceHash](https://www.nicehash.com/asic-mining)
 - [Slush Pool](https://slushpool.com/en/home/)
+- [NiceHash](https://www.nicehash.com/asic-mining)
+  - While not exactly a mining pool, you are still rewarded in non-KYC bitcoin for providing your hashing power to the NiceHash service. NiceHash acts like a broker to sell the hashing power that you're providing to hash power buyers.
 <br/>
 
 # P2P Exchanges
@@ -118,15 +119,17 @@ In general, decentralized exchanges have many advantages such as, no single poin
 <br/>
 
 # Coin Mixing
-I want to mention coin mixing as this should be done by any privacy conscious Bitcoiner. This technique creates it exponentially more difficult to track your identity and further helps preserve your privacy.
+I want to mention coin mixing as this should be done by any privacy conscious Bitcoiner. This technique creates it exponentially more difficult to track your transactions and further helps preserve your privacy.
+
+***Note:*** *Mixing your bitcoin can essentially flag your bitcoin as "tainted", so if you ever attempted to sell it on a centralized exchange you may be denied service. The centralized exchanges accomplish this by analyzing and determining if any of the bitcoin you've sent into the exchange is linked to any addresses associated with coin mixing. Moral of the story, don't ever sell your bitcoin :)*
 
 ## Overview
 In my laments terms, coin mixing is the technique of:
 - Pooling your bitcoin with other peers
-- Mixing your coins together using magical techniques that the coin mixing services perform 
-- bitcoin are spit back out at random amounts to eventually equal the original amount you sent in. 
+- Mixing your coins together using magical techniques that the coin mixing service performs 
+- bitcoin are sent back out at random amounts to eventually equal the original amount you sent in 
 
-***Note:*** *Mixing your bitcoin can essentially flag your bitcoin so if you ever attempted to sell it on a centralized exchange you may be denied service. This is accomplished by centralized exchanges determining if any of your bitcoin is linked to addresses associated with coin mixing.*
+## Mixing Services
 - [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)
 - [Whirlpool](https://samouraiwallet.com/whirlpool)
 
