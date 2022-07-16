@@ -3,12 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-background: ''
-title: "About"
 ---
-<br/>
-### About Me
-Privacy, self-hosting, and Bitcoin enthusiast. I created this blog to document my sovereign ventures and share this information with anyone who stumbles upon this it.
+
+# About Me
+Privacy, self-hosting, and Bitcoin enthusiast.
 
 <br/>
 Married to a standard software engineering gig by day, but by night my mistress is named Bitcoin and she's a dirty privacy freak.
@@ -17,15 +15,17 @@ Married to a standard software engineering gig by day, but by night my mistress 
 
 <br/>
 
-### Contact Me
+<br/>
+# Contact Me
 
+## Protonmail
 Email: unrulable@protonmail.com
 
-#### PGP Fingerprint
+### Protonmail PGP Fingerprint
 
 196f0e9128d35e7bad1468f897035c7e064d3bdf
 
-
+### Protonmail PGP Full Public Key
 <details>
     <summary>PGP Full Public Key</summary>
     -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -47,13 +47,15 @@ Email: unrulable@protonmail.com
     -----END PGP PUBLIC KEY BLOCK-----
 </details>
 
+## Messaging Apps
 Threema: 9PDER59R
 
+## Social Media
 Twitter: _unrulable
 
 
 
-#### PGP Fingerprint
+## PGP Fingerprint
 ```text
 B423 0C36 2CEB 527D F7D0  E5FC 486E 7CF7 D334 0D13
 ```
