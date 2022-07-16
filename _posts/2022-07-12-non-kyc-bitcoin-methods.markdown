@@ -95,14 +95,14 @@ A mining pool is a group of individual miners that combine their computational r
 #### Options
 - [Slush Pool](https://slushpool.com/en/home/)
 - [NiceHash](https://www.nicehash.com/asic-mining)
-  - While not exactly a mining pool, you are still rewarded in non-KYC bitcoin for providing your hashing power to the NiceHash service. NiceHash acts like a broker to sell the hashing power that you're providing to hash power buyers.
+  - While not exactly a mining pool, you are still rewarded in bitcoin for providing your hashing power to the NiceHash service. NiceHash acts like a broker to sell the hashing power that you're providing to hash power buyers.
 <br/>
 
 # P2P Exchanges
 All of these options below are decentralized peer to peer exchanges that I have personally bought bitcoin from. 
 
 ## Overview
-In general, decentralized exchanges have many advantages such as, no single point of failure, no single point of control, and no single point of regulation. You're trading/swapping directly with your peers, there is no centralized third party involved. You don't need to create an account with the exchange and you don't need to transfer your money/assets to the exchange, so there's no risk of your data and/or funds being stolen by malicious entities.
+In general, decentralized P2P exchanges have many advantages such as, no single point of failure, no single point of control, and no single point of regulation. You're trading/swapping directly with your peers, there is no centralized third party involved. You don't need to create an account with the exchange and you don't need to transfer your money/assets to the exchange, so there's no risk of your data and/or funds being stolen by malicious entities.
 
 ## Options
 - [Bisq](https://bisq.network/)
