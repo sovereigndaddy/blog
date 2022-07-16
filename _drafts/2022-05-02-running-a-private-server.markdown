@@ -87,6 +87,13 @@ Below is a full list of the current Embassy services as of July 2022.
 | **Lightning Jet**      | Fully automated rebalncer for LND lightning nodes                             |
 | **Lightning Terminal** | Lightning Terminal (LiT) is a browser-based interface for managing channel liquidity on your self-hosted LND node                                                                                                     |
 | **LNDg**               | File Browser provides a simple file managing interface which can be used to upload, download, organize, edit, and share your files.                                                                                                   |
-| **File Browser**       | File Browser provides a simple file managing interface which can be used to upload, download, organize, edit, and share your files.                                                                                                   |
-| **File Browser**       | File Browser provides a simple file managing interface which can be used to upload, download, organize, edit, and share your files.                                                                                                   |
-| **File Browser**       | File Browser provides a simple file managing interface which can be used to upload, download, organize, edit, and share your files.                                                                                                   |
+| **Mastadon**           | A free open-source social network server                                      |
+| **Mempool**            | A Bitcoin node and network visualizer                                         |
+| **Photoview**          | An easy way to organize and share your personal photos                        |
+| **Ride the Lightning** | A full function, device agnostic, web user interface for managing lightning node operations |
+| **Spark Wallet**       | A minimalistic wallet GUI for Core Lightning (CLN)                            |
+| **Sphinx Chat**        | Messaging service built on top of the Lightning Network. Each message sent and received on Sphinx is actually a transaction on Lightning                                                                                             |
+| **Synapse**            | Synapse is the battle-tested, reference implementation of the Matrix protocol |
+| **Syncthing**          | Simple cloud data storage and sharing                                         |
+| **Thunderhub**         | LND node manager where you can manage and monitor your node on any device or browser                                                                                                  |
+| **Vaultwarden**        | A lightweight and secure password manager for storing and autofilling sensitive information such as usernames and passwords, credit cards, identities, and notes                                                                      |
