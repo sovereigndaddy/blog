@@ -53,7 +53,7 @@ In your browser, enter in the IP address. You'll be prompted to login, by defaul
  ![Old Antminer Connections](/img/AntminerConfigInitialOpen.jpg)
 
 ## Slushpool Stratum V1
-I'm using [SlushPool](https://slushpool.com) so I'm going to locate the V1 connections which are the connections you want if you're NOT using the Braiins software. 
+I'm using [SlushPool](https://slushpool.com) so I'm going to locate the V1 connections which are the connections you want if you're NOT using the [Braiins OS](https://braiins.com/os/plus). 
 
 ### Server Location URLs
 
